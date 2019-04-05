@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewBag.Title = "Mapping";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Mapping</h2>
+@{
+    string controller = HttpContext.Current.Request.RequestContext.RouteData.Values["controller"].ToString();
+    string action = HttpContext.Current.Request.RequestContext.RouteData.Values["action"].ToString();
+    string id = HttpContext.Current.Request.RequestContext.RouteData.Values["id"].ToString();
+}
+<p>@controller/@action/@id</p>

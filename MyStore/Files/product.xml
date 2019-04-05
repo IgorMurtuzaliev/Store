@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Product xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProductId>9</ProductId>
+  <Name>Orange</Name>
+  <Price>9</Price>
+  <Description>Orange</Description>
+  <Date>2019-04-05T09:00:32.9473174+03:00</Date>
+</Product>>

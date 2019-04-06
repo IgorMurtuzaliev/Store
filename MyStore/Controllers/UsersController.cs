@@ -52,7 +52,7 @@ namespace MyStore.Controllers
             return View(user);
         }
 
-        public ActionResult Edit(int? id)
+        public ActionResult Edit(string id)
         {
             if (id == null)
             {
@@ -79,7 +79,7 @@ namespace MyStore.Controllers
             return View(user);
         }
 
-        public ActionResult Delete(int? id)
+        public ActionResult Delete(string id)
         {
             if (id == null)
             {
@@ -95,7 +95,7 @@ namespace MyStore.Controllers
 
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public ActionResult DeleteConfirmed(int id)
+        public ActionResult DeleteConfirmed(string id)
         {
             User user = db.Users.Find(id);
             db.Users.Remove(user);

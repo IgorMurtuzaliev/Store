@@ -296,3 +296,8 @@ C:\Users\User\Desktop\MyStore\MyStore\obj\Debug\MyStore.dll
 C:\Users\User\Desktop\MyStore\MyStore\obj\Debug\MyStore.pdb
 C:\Users\User\Desktop\MyStore\MyStore\obj\Debug\MyStore.Migrations.Init.resources
 C:\Users\User\Desktop\MyStore\MyStore\obj\Debug\MyStore.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MyStore\MyStore\bin\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\MyStore\MyStore\bin\MailKit.dll
+C:\Users\User\Desktop\MyStore\MyStore\bin\MimeKit.dll
+C:\Users\User\Desktop\MyStore\MyStore\bin\MailKit.xml
+C:\Users\User\Desktop\MyStore\MyStore\bin\MimeKit.xml

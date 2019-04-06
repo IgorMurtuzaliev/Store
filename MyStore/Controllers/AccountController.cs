@@ -3,11 +3,12 @@ using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using MyStore.Models;
 using System;
+using MailKit;
 using System.Security.Claims;
 using System.Threading.Tasks;
 using System.Web;
 using System.Web.Mvc;
-
+using System.Net.Mail;
 
 namespace MyStore.Controllers
 {
@@ -82,7 +83,26 @@ namespace MyStore.Controllers
                 IdentityResult result = await UserManager.CreateAsync(user, model.Password);
                 if (result.Succeeded)
                 {
-                    return RedirectToAction("Login", "Account");
+                    // наш email с заголовком письма
+                    MailAddress from = new MailAddress("ingwarrior.99@yandex.ru", "Web Registration");
+                    // кому отправляем
+                    MailAddress to = new MailAddress(user.Email);
+                    // создаем объект сообщения
+                    MailMessage m = new MailMessage(from, to);
+                    // тема письма
+                    m.Subject = "Email confirmation";
+                    // текст письма - включаем в него ссылку
+                    m.Body = string.Format("Для завершения регистрации перейдите по ссылке:" +
+                                    "<a href=\"{0}\" title=\"Подтвердить регистрацию\">{0}</a>",
+                        Url.Action("ConfirmEmail", "Account", new { Token = user.Id, Email = user.Email }, Request.Url.Scheme));
+                    m.IsBodyHtml = true;
+                    // адрес smtp-сервера, с которого мы и будем отправлять письмо
+                    SmtpClient smtp = new System.Net.Mail.SmtpClient("smtp.yandex.ru", 25);
+                    // логин и пароль
+                    smtp.EnableSsl = true;
+                    smtp.Credentials = new System.Net.NetworkCredential("ingwarrior.99@yandex.ru", "038161401IngWar9991");
+                    smtp.Send(m);
+                    return RedirectToAction("Confirm", "Account", new { Email = user.Email });
                 }
                 else
                 {
@@ -94,7 +114,41 @@ namespace MyStore.Controllers
             }
             return View(model);
         }
+        [AllowAnonymous]
+        public string Confirm(string Email)
+        {
+            return "На почтовый адрес " + Email + " Вам высланы дальнейшие" +
+                    "инструкции по завершению регистрации";
+        }
 
+        [AllowAnonymous]
+        public async Task<ActionResult> ConfirmEmail(string Token, string Email)
+        {
+            User user = this.UserManager.FindById(Token);
+            if (user != null)
+            {
+                if (user.Email == Email)
+                {
+                    ClaimsIdentity claim = await UserManager.CreateIdentityAsync(user,
+                                            DefaultAuthenticationTypes.ApplicationCookie);
+                    user.EmailConfirmed = true;
+                    await UserManager.UpdateAsync(user);
+                    AuthenticationManager.SignIn(new AuthenticationProperties
+                    {
+                        IsPersistent = true
+                    }, claim);
+                    return RedirectToAction("Login", "Account", new { ConfirmedEmail = user.Email });
+                }
+                else
+                {
+                    return RedirectToAction("Confirm", "Account", new { Email = user.Email });
+                }
+            }
+            else
+            {
+                return RedirectToAction("Confirm", "Account", new { Email = "" });
+            }
+        }
         private IAuthenticationManager AuthenticationManager
         {
             get
@@ -122,7 +176,9 @@ namespace MyStore.Controllers
                 }
                 else
                 {
-                    ClaimsIdentity claim = await UserManager.CreateIdentityAsync(user,
+                    if (user.EmailConfirmed == true)
+                    {
+                        ClaimsIdentity claim = await UserManager.CreateIdentityAsync(user,
                                             DefaultAuthenticationTypes.ApplicationCookie);
                     AuthenticationManager.SignOut();
                     AuthenticationManager.SignIn(new AuthenticationProperties
@@ -132,6 +188,11 @@ namespace MyStore.Controllers
                     if (String.IsNullOrEmpty(returnUrl))
                         return RedirectToAction("Index", "Home");
                     return Redirect(returnUrl);
+                    }
+                    else
+                    {
+                        ModelState.AddModelError("", "Не подтвержден email.");
+                    }
                 }
             }
             ViewBag.returnUrl = returnUrl;
@@ -140,7 +201,7 @@ namespace MyStore.Controllers
         public ActionResult Logout()
         {
             AuthenticationManager.SignOut();
-            return RedirectToAction("Login");
+            return RedirectToAction("Index", "Home");
         }
 
         //public ActionResult Delete()

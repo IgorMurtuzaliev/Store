@@ -37,7 +37,7 @@ namespace MyStore.Controllers
 
         public ActionResult Create()
         {
-            ViewBag.UserId = new SelectList(db.Users, "UserId", "Name");
+            ViewBag.UserId = new SelectList(db.Users, "Id", "Name");
             ViewBag.ProductId = new SelectList(db.Products, "ProductId", "Name");
             return View();
         }
@@ -51,7 +51,7 @@ namespace MyStore.Controllers
             if (ModelState.IsValid)
             {
                 var order = new Order
-                {
+                { 
                     UserId = orderVM.UserId,
                     TimeOfOrder = DateTime.Now
                 };
@@ -88,7 +88,7 @@ namespace MyStore.Controllers
             {
                 return HttpNotFound();
             }
-            ViewBag.UserId = new SelectList(db.Users, "UserId", "Name", order.UserId);
+            ViewBag.UserId = new SelectList(db.Users, "Id", "Name", order.UserId);
             return View(order);
         }
 
@@ -102,7 +102,7 @@ namespace MyStore.Controllers
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
-            ViewBag.UserId = new SelectList(db.Users, "UserId", "Name", order.UserId);
+            ViewBag.UserId = new SelectList(db.Users, "Id", "Name", order.UserId);
             return View(order);
         }
 

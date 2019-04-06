@@ -19,7 +19,7 @@ namespace MyStore.Controllers
             return View(db.Users.ToList());
         }
 
-        public ActionResult Details(int? id)
+        public ActionResult Details(string id)
         {
             if (id == null)
             {

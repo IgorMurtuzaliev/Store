@@ -51,7 +51,7 @@ namespace MyStore.Controllers
 
                 XmlSerializer formatter = new XmlSerializer(typeof(Product));
 
-                using (FileStream fs = new FileStream(Server.MapPath("~/Files/product.xml"), FileMode.OpenOrCreate))
+                using (FileStream fs = new FileStream(Server.MapPath("~/Files/product.xml"), FileMode.Create))
                 {
                     formatter.Serialize(fs, product);
 
@@ -70,8 +70,9 @@ namespace MyStore.Controllers
              using (FileStream fs = new FileStream(Server.MapPath("~/Files/product.xml"), FileMode.OpenOrCreate))
              {
                  Product newProduct = (Product)formatter.Deserialize(fs);
+                 return View("Create", newProduct);
              }
-            return RedirectToAction("Create", product);
+           
          }
 
         public ActionResult Edit(int? id)

@@ -8,7 +8,7 @@ namespace MyStore.ViewModels
 {
     public class OrderViewModel
     {
-        public int UserId { get; set; }
+        public string UserId { get; set; }
         public int ProductId { get; set; }
         public int OrderId { get; set; }
         public int Amount { get; set; }

@@ -17,7 +17,7 @@ namespace MyStore.Models
 
         [DataType(DataType.DateTime)]
         public DateTime TimeOfOrder { get; set; } = DateTime.Now;
-        public int UserId { get; set; }
+        public string UserId { get; set; }
 
         public virtual User User { get; set; }
         public virtual List<ProductOrder> ProductOrders { get; set; }

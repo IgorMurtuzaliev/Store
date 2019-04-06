@@ -204,26 +204,6 @@ namespace MyStore.Controllers
             return RedirectToAction("Index", "Home");
         }
 
-        //public ActionResult Delete()
-        //{
-        //    return View();
-        //}
-
-        //[HttpPost]
-        //[ActionName("Delete")]
-        //public async Task<ActionResult> DeleteConfirmed()
-        //{
-        //    User user = await UserManager.FindByEmailAsync(User.Identity.Name);
-        //    if (user != null)
-        //    {
-        //        IdentityResult result = await UserManager.DeleteAsync(user);
-        //        if (result.Succeeded)
-        //        {
-        //            return RedirectToAction("Logout", "Account");
-        //        }
-        //    }
-        //    return RedirectToAction("Index", "Home");
-        //}
 
     }
 

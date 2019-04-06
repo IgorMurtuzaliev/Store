@@ -301,3 +301,5 @@ C:\Users\User\Desktop\MyStore\MyStore\bin\MailKit.dll
 C:\Users\User\Desktop\MyStore\MyStore\bin\MimeKit.dll
 C:\Users\User\Desktop\MyStore\MyStore\bin\MailKit.xml
 C:\Users\User\Desktop\MyStore\MyStore\bin\MimeKit.xml
+C:\Users\User\Desktop\MyStore\MyStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Desktop\MyStore\MyStore\bin\Microsoft.Owin.Security.Google.xml

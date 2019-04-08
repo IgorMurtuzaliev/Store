@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNet.Identity;
+﻿using System;
+using System.Threading.Tasks;
+using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin;
@@ -16,6 +18,11 @@ namespace MyStore.Models
             ApplicationDbContext db = context.Get<ApplicationDbContext>();
             ApplicationUserManager manager = new ApplicationUserManager(new UserStore<User>(db));
             return manager;
+        }
+
+        internal static Task<ExternalLoginInfo> GetExternalLoginInfoAsync()
+        {
+            throw new NotImplementedException();
         }
     }
 }

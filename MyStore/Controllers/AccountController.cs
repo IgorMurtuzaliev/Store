@@ -204,6 +204,70 @@ namespace MyStore.Controllers
             return RedirectToAction("Index", "Home");
         }
 
+        private IAuthenticationManager AuthManager
+        {
+            get
+            {
+                return HttpContext.GetOwinContext().Authentication;
+            }
+        }
+
+        [HttpPost]
+        [AllowAnonymous]
+        public ActionResult GoogleLogin(string returnUrl)
+        {
+            var properties = new AuthenticationProperties
+            {
+                RedirectUri = Url.Action("GoogleLoginCallback",
+                    new { returnUrl = returnUrl })
+            };
+
+            HttpContext.GetOwinContext().Authentication.Challenge(properties, "Google");
+            return new HttpUnauthorizedResult();
+        }
+        [AllowAnonymous]
+        public async Task<ActionResult> GoogleLoginCallback(string returnUrl)
+        {
+            ExternalLoginInfo loginInfo = await AuthManager.GetExternalLoginInfoAsync();
+            User user = await UserManager.FindAsync(loginInfo.Login);
+
+            if (user == null)
+            {
+                user = new User
+                {
+                    Email = loginInfo.Email,
+                    UserName = loginInfo.DefaultUserName,
+                    Name = loginInfo.Email,
+                    LastName = loginInfo.Email
+                };
+
+                IdentityResult result = await UserManager.CreateAsync(user);
+                if (!result.Succeeded)
+                {
+                    return View("Error", result.Errors);
+                }
+                else
+                {
+                    result = await UserManager.AddLoginAsync(user.Id, loginInfo.Login);
+                    if (!result.Succeeded)
+                    {
+                        return View("Error", result.Errors);
+                    }
+                }
+            }
+
+            ClaimsIdentity ident = await UserManager.CreateIdentityAsync(user,
+                DefaultAuthenticationTypes.ApplicationCookie);
+
+            ident.AddClaims(loginInfo.ExternalIdentity.Claims);
+
+            AuthManager.SignIn(new AuthenticationProperties
+            {
+                IsPersistent = false
+            }, ident);
+
+            return Redirect(returnUrl ?? "/");
+        }
 
     }
 

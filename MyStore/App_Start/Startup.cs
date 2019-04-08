@@ -19,6 +19,7 @@ namespace MyStore.App_Start
             app.CreatePerOwinContext(ApplicationDbContext.Create);
             app.CreatePerOwinContext<ApplicationUserManager>(ApplicationUserManager.Create);
             app.CreatePerOwinContext<ApplicationRoleManager>(ApplicationRoleManager.Create);
+
             app.UseCookieAuthentication(new CookieAuthenticationOptions
             {
                 AuthenticationType = DefaultAuthenticationTypes.ApplicationCookie,
@@ -38,9 +39,17 @@ namespace MyStore.App_Start
 
             app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
             {
-                ClientId = "405558759348-k91mpnp7r8vmmqsvcgii0uek2affej8b.apps.googleusercontent.com ",
-                ClientSecret = "SXtEzIDr3XJjj0uHzGpNU7Hv "
+                AuthenticationType = "Google",
+                ClientId = "405558759348-k91mpnp7r8vmmqsvcgii0uek2affej8b.apps.googleusercontent.com",
+                ClientSecret = "SXtEzIDr3XJjj0uHzGpNU7Hv",
+                Caption = "Авторизация через Google+",
+                CallbackPath = new PathString("/GoogleLoginCallback"),
+                BackchannelTimeout = TimeSpan.FromSeconds(60),
+                BackchannelHttpHandler = new System.Net.Http.WebRequestHandler(),
+                BackchannelCertificateValidator = null,
+                Provider = new GoogleOAuth2AuthenticationProvider()
             });
+
 
         }
     }

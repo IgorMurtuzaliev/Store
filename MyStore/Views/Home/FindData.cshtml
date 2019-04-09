@@ -1,0 +1,49 @@
+﻿@model IEnumerable<MyStore.Models.Order>
+@{
+    ViewBag.Title = "FindData";
+}
+
+<h2>FindData</h2>
+
+<form method="post" action="">
+    <input type="date" value="from" name="from" />
+    <input type="date" value="to" name="to" />
+    <input type="submit" value="Отправить" />
+</form>
+<form method="post" action="">
+    <div class="form-inline">
+        <label class="control-label">user: </label>
+        @Html.DropDownList("UserId", null, htmlAttributes: new { @class = "form-control" })
+        <input type="submit" value="Отправить" class="btn btn-default" />
+    </div>
+</form>
+
+<table class="table">
+<tr>
+    <th>
+        @Html.DisplayNameFor(model => model.User.Name)
+    </th>
+    <th>
+        @Html.DisplayNameFor(model => model.TimeOfOrder)
+    </th>
+    <th></th>
+</tr>
+
+@foreach (MyStore.Models.Order item in Model)
+{
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.User.UserName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TimeOfOrder)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id = item.OrderId }) |
+            @Html.ActionLink("Details", "Details", new { id = item.OrderId }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.OrderId })
+        </td>
+    </tr>
+}
+
+</table>

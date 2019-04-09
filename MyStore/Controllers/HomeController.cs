@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MyStore.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,23 +9,34 @@ namespace MyStore.Controllers
 {
     public class HomeController : Controller
     {
+        private ApplicationDbContext db = new ApplicationDbContext();
         public ActionResult Index()
         {
             return View();
         }
-
-        public ActionResult About()
+        [HttpGet]
+        public ActionResult FindData()
         {
-            ViewBag.Message = "Your application description page.";
-
-            return View();
+            ViewBag.UserId = new SelectList(db.Users, "Id", "Name");
+            return View(db.Orders.ToList());
         }
-
-        public ActionResult Contact()
+        [HttpPost]
+        public ActionResult FindData(DateTime? from, DateTime? to, User user)
         {
-            ViewBag.Message = "Your contact page.";
 
+            if (from != null || to != null)
+            {
+                var orders = db.Orders.Where(c => c.TimeOfOrder > from && c.TimeOfOrder < to).ToList();
+                return View(orders);
+            }
+            if (user != null)
+            {
+                var orders = db.Orders.Where(c => c.User.Id == user.Id).ToList();
+                return View(orders);
+            }
             return View();
+
+
         }
     }
 }

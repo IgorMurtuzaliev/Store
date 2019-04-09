@@ -15,7 +15,7 @@ namespace MyStore.Models
 
         public int OrderId { get; set; }
 
-        [DataType(DataType.DateTime)]
+        [DataType(DataType.Date)]
         public DateTime TimeOfOrder { get; set; } = DateTime.Now;
         public string UserId { get; set; }
 

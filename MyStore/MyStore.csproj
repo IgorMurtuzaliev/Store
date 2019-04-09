@@ -335,6 +335,7 @@
     <Content Include="Views\Roles\Index.cshtml" />
     <Content Include="Views\Roles\Create.cshtml" />
     <Content Include="Views\Roles\Edit.cshtml" />
+    <Content Include="Views\Home\FindData.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Files\" />

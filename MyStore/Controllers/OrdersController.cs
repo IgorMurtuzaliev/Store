@@ -6,18 +6,18 @@ using System.Linq;
 using System.Net;
 using System.Web;
 using System.Web.Mvc;
+using Microsoft.AspNet.Identity;
 using MyStore.Models;
 using MyStore.ViewModels;
 
 namespace MyStore.Controllers
 {
+    
     public class OrdersController : Controller
     {
         private ApplicationDbContext db = new ApplicationDbContext();
-
         public ActionResult Index()
         {
-
             return View(db.Orders.Include(c => c.User).ToList());
         }
 

@@ -4,33 +4,48 @@
 }
 
 <h2>Login</h2>
-@using (Html.BeginForm())
-{
-    @Html.AntiForgeryToken()
 
-    <div>
-        @Html.ValidationSummary()
+<div>
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div>
+            @Html.ValidationSummary()
+            <input type="hidden" name="returnUrl" value="@ViewBag.returnUrl" />
+            <p>
+                <label>Email</label><br />
+                @Html.EditorFor(x => x.Email)
+            </p>
+            <p>
+                <label>Пароль</label><br />
+                @Html.EditorFor(x => x.Password)
+            </p>
+            <p><button type="submit">Войти</button></p>
+
+        </div>
+    }
+</div>
+<div>
+    <h4>Войти с помощью:</h4>
+    @using (Html.BeginForm("GoogleLogin", "Account", FormMethod.Post, new { style = "margin-top:12px" }))
+    {
         <input type="hidden" name="returnUrl" value="@ViewBag.returnUrl" />
-        <p>
-            <label>Email</label><br />
-            @Html.EditorFor(x => x.Email)
-        </p>
-        <p>
-            <label>Пароль</label><br />
-            @Html.EditorFor(x => x.Password)
-        </p>
-        <p><button type="submit">Войти</button></p>
-
-    </div>
-}
-
-@using (Html.BeginForm("GoogleLogin", "Account", FormMethod.Post, new { style = "margin-top:12px" }))
+        <button class="btn btn-primary" type="submit">
+          Google
+        </button>
+    }
+@using (Html.BeginForm("FacebookLogin", "Account", FormMethod.Post, new { style = "margin-top:12px" }))
 {
     <input type="hidden" name="returnUrl" value="@ViewBag.returnUrl" />
     <button class="btn btn-primary" type="submit">
-        Войти с помощью аккаунта Google
+        Facebook
     </button>
 }
+</div>
+
+
+
 
 
 

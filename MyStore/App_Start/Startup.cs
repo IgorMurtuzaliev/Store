@@ -50,6 +50,9 @@ namespace MyStore.App_Start
                 Provider = new GoogleOAuth2AuthenticationProvider()
             });
 
+           app.UseFacebookAuthentication(
+            appId: "2002527973377551",
+            appSecret: "9ae1429be17ea2ae5880d4c1549f6352");
 
         }
     }

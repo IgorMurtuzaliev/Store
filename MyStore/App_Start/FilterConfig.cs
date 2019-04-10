@@ -1,4 +1,5 @@
-﻿using System.Web;
+﻿using MyStore.Filters;
+using System.Web;
 using System.Web.Mvc;
 
 namespace MyStore
@@ -8,6 +9,7 @@ namespace MyStore
         public static void RegisterGlobalFilters(GlobalFilterCollection filters)
         {
             filters.Add(new HandleErrorAttribute());
+            filters.Add(new MyActionAttribute());
         }
     }
 }

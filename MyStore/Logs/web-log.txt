@@ -1,0 +1,26 @@
+INFO  2019-04-10 13:34:00,282 23077ms WIN-6FI1K7MQ3U4        LoggerTest         - Testing information log
+DEBUG 2019-04-10 13:34:00,319 23114ms WIN-6FI1K7MQ3U4        LoggerTest         - Testing Debug log
+FATAL 2019-04-10 13:34:00,321 23116ms WIN-6FI1K7MQ3U4        LoggerTest         - Testing Fatal log
+ERROR 2019-04-10 13:34:00,323 23118ms WIN-6FI1K7MQ3U4        LoggerTest         - System.Exception: Выдано исключение типа "System.Exception".
+INFO  2019-04-10 13:44:12,778  5540ms WIN-6FI1K7MQ3U4        LoggerTest         - Testing information log
+DEBUG 2019-04-10 13:44:12,822  5583ms WIN-6FI1K7MQ3U4        LoggerTest         - Testing Debug log
+FATAL 2019-04-10 13:44:12,835  5596ms WIN-6FI1K7MQ3U4        LoggerTest         - Testing Fatal log
+ERROR 2019-04-10 13:44:12,837  5598ms WIN-6FI1K7MQ3U4        LoggerTest         - System.Exception: Выдано исключение типа "System.Exception".
+INFO  2019-04-10 13:45:05,836  1475ms WIN-6FI1K7MQ3U4        LoggerTest         - Testing information log
+DEBUG 2019-04-10 13:45:05,866  1505ms WIN-6FI1K7MQ3U4        LoggerTest         - Testing Debug log
+FATAL 2019-04-10 13:45:05,867  1506ms WIN-6FI1K7MQ3U4        LoggerTest         - Testing Fatal log
+ERROR 2019-04-10 13:45:05,868  1507ms WIN-6FI1K7MQ3U4        LoggerTest         - System.Exception: Выдано исключение типа "System.Exception".
+INFO  2019-04-10 15:09:13,527 29480ms WIN-6FI1K7MQ3U4        LoggerTest         - Testing information log
+DEBUG 2019-04-10 15:09:13,562 29515ms WIN-6FI1K7MQ3U4        LoggerTest         - Testing Debug log
+FATAL 2019-04-10 15:09:13,564 29517ms WIN-6FI1K7MQ3U4        LoggerTest         - Testing Fatal log
+ERROR 2019-04-10 15:09:13,567 29520ms WIN-6FI1K7MQ3U4        LoggerTest         - System.Exception: Выдано исключение типа "System.Exception".
+INFO  2019-04-10 16:30:05,080 14024ms WIN-6FI1K7MQ3U4        LoggerTest         - Testing information log
+DEBUG 2019-04-10 16:30:05,101 14045ms WIN-6FI1K7MQ3U4        LoggerTest         - Testing Debug log
+FATAL 2019-04-10 16:30:05,104 14048ms WIN-6FI1K7MQ3U4        LoggerTest         - Testing Fatal log
+ERROR 2019-04-10 16:30:05,106 14050ms WIN-6FI1K7MQ3U4        LoggerTest         - System.Exception: Выдано исключение типа "System.Exception".
+DEBUG 2019-04-10 17:19:20,249   146ms WIN-6FI1K7MQ3U4        Index              - 
+INFO  2019-04-10 18:41:46,560  6250ms LoggerAppender         OnActionExecuted   - mess
+DEBUG 2019-04-10 18:43:47,963 20633ms LoggerAppender         OnActionExecuted   - aa
+INFO  2019-04-10 18:57:05,689  2045ms LoggerAppender         OnActionExecuted   - 
+INFO  2019-04-10 19:01:13,142  1789ms LoggerAppender         OnActionExecuted   - 
+INFO  2019-04-10 19:03:07,731  2063ms LoggerAppender         OnActionExecuted   - 

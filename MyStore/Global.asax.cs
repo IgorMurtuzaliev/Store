@@ -16,6 +16,7 @@ namespace MyStore
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+            // log4net.Initlogger()
         }
-    }
+    } 
 }

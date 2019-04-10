@@ -14,5 +14,6 @@ namespace MyStore.Models
         public DbSet<Product> Products { get; set; }
         public DbSet<Order> Orders { get; set; }
         public DbSet<ProductOrder> ProductOrders { get; set; }
+        public DbSet<MyLogger> MyLoggers { get; set; }
     }
 }

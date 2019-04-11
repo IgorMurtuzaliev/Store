@@ -44,20 +44,11 @@ namespace MyStore.Controllers
             //}          
         }
 
-        public string LoggerTest(int id)
+        public string LoggerTest()
         {
-            if (id != 11)
-            {
-                return "norm";
-            }
-            else
-            {
-                Logger.Info("Testing information log");
-                Logger.Debug("Testing Debug log");
-                Logger.Fatal("Testing Fatal log");
-                Logger.Error(ex);
-                return "Error";
-            }
+            int[] mas = new int[2];
+            mas[6] = 4;
+            return "";
         }
     }
 }

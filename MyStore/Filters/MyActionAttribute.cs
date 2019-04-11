@@ -9,7 +9,7 @@ using System.Web.Mvc;
 
 namespace MyStore.Filters
 {
-    public class MyActionAttribute : FilterAttribute, IActionFilter
+    public class MyActionAttribute : FilterAttribute, IActionFilter, IExceptionFilter
     {
         private ApplicationDbContext db = new ApplicationDbContext();
         public void OnActionExecuted(ActionExecutedContext filterContext)
@@ -33,6 +33,13 @@ namespace MyStore.Filters
             log4net.LogicalThreadContext.Properties["q_string"] = filterContext.HttpContext.Request.QueryString;
             log4net.LogicalThreadContext.Properties["body"] = "Body";
             Log4net.Log.Info("Message");
+        }
+
+        public void OnException(ExceptionContext filterContext)
+        {
+            log4net.LogicalThreadContext.Properties["trace"] = filterContext.Exception.StackTrace;
+            log4net.LogicalThreadContext.Properties["mess"] = filterContext.Exception.Message;
+            Log4net.Log.Error("Error");
         }
     }
 }

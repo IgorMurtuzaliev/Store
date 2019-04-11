@@ -1,165 +1,101 @@
-INFO  2019-04-10 13:34:00,282 23077ms WIN-6FI1K7MQ3U4        LoggerTest         - Testing information log
-DEBUG 2019-04-10 13:34:00,319 23114ms WIN-6FI1K7MQ3U4        LoggerTest         - Testing Debug log
-FATAL 2019-04-10 13:34:00,321 23116ms WIN-6FI1K7MQ3U4        LoggerTest         - Testing Fatal log
-ERROR 2019-04-10 13:34:00,323 23118ms WIN-6FI1K7MQ3U4        LoggerTest         - System.Exception: Выдано исключение типа "System.Exception".
-INFO  2019-04-10 13:44:12,778  5540ms WIN-6FI1K7MQ3U4        LoggerTest         - Testing information log
-DEBUG 2019-04-10 13:44:12,822  5583ms WIN-6FI1K7MQ3U4        LoggerTest         - Testing Debug log
-FATAL 2019-04-10 13:44:12,835  5596ms WIN-6FI1K7MQ3U4        LoggerTest         - Testing Fatal log
-ERROR 2019-04-10 13:44:12,837  5598ms WIN-6FI1K7MQ3U4        LoggerTest         - System.Exception: Выдано исключение типа "System.Exception".
-INFO  2019-04-10 13:45:05,836  1475ms WIN-6FI1K7MQ3U4        LoggerTest         - Testing information log
-DEBUG 2019-04-10 13:45:05,866  1505ms WIN-6FI1K7MQ3U4        LoggerTest         - Testing Debug log
-FATAL 2019-04-10 13:45:05,867  1506ms WIN-6FI1K7MQ3U4        LoggerTest         - Testing Fatal log
-ERROR 2019-04-10 13:45:05,868  1507ms WIN-6FI1K7MQ3U4        LoggerTest         - System.Exception: Выдано исключение типа "System.Exception".
-INFO  2019-04-10 15:09:13,527 29480ms WIN-6FI1K7MQ3U4        LoggerTest         - Testing information log
-DEBUG 2019-04-10 15:09:13,562 29515ms WIN-6FI1K7MQ3U4        LoggerTest         - Testing Debug log
-FATAL 2019-04-10 15:09:13,564 29517ms WIN-6FI1K7MQ3U4        LoggerTest         - Testing Fatal log
-ERROR 2019-04-10 15:09:13,567 29520ms WIN-6FI1K7MQ3U4        LoggerTest         - System.Exception: Выдано исключение типа "System.Exception".
-INFO  2019-04-10 16:30:05,080 14024ms WIN-6FI1K7MQ3U4        LoggerTest         - Testing information log
-DEBUG 2019-04-10 16:30:05,101 14045ms WIN-6FI1K7MQ3U4        LoggerTest         - Testing Debug log
-FATAL 2019-04-10 16:30:05,104 14048ms WIN-6FI1K7MQ3U4        LoggerTest         - Testing Fatal log
-ERROR 2019-04-10 16:30:05,106 14050ms WIN-6FI1K7MQ3U4        LoggerTest         - System.Exception: Выдано исключение типа "System.Exception".
-DEBUG 2019-04-10 17:19:20,249   146ms WIN-6FI1K7MQ3U4        Index              - 
-INFO  2019-04-10 18:41:46,560  6250ms LoggerAppender         OnActionExecuted   - mess
-DEBUG 2019-04-10 18:43:47,963 20633ms LoggerAppender         OnActionExecuted   - aa
-INFO  2019-04-10 18:57:05,689  2045ms LoggerAppender         OnActionExecuted   - 
-INFO  2019-04-10 19:01:13,142  1789ms LoggerAppender         OnActionExecuted   - 
-INFO  2019-04-10 19:03:07,731  2063ms LoggerAppender         OnActionExecuted   - 
-INFO  2019-04-11 07:41:59,923  8706ms                        OnActionExecuted   - 
-INFO  2019-04-11 07:42:10,362 19145ms                        OnActionExecuted   - 
-INFO  2019-04-11 07:49:06,212 16691ms DBLog                  OnActionExecuted   - 
-INFO  2019-04-11 07:50:45,252   316ms DBLog                  OnActionExecuted   - 
-INFO  2019-04-11 07:50:52,807  7871ms DBLog                  OnActionExecuted   - 
-INFO  2019-04-11 07:50:55,028 10092ms DBLog                  OnActionExecuted   - 
-INFO  2019-04-11 07:50:56,678 11742ms DBLog                  OnActionExecuted   - 
-INFO  2019-04-11 07:52:13,720  1315ms DBLog                  OnActionExecuted   - 
-INFO  2019-04-11 07:52:16,072  3667ms DBLog                  OnActionExecuted   - 
-INFO  2019-04-11 07:52:17,162  4757ms DBLog                  OnActionExecuted   - 
-INFO  2019-04-11 07:52:17,823  5418ms DBLog                  OnActionExecuted   - 
-INFO  2019-04-11 08:16:28,415   332ms DBLog                  OnActionExecuted   - 
-INFO  2019-04-11 08:19:16,807 128364ms DBLog                  OnActionExecuted   - 
-INFO  2019-04-11 08:25:17,434 11089ms DLog                   OnActionExecuted   - TEST
-INFO  2019-04-11 08:28:26,519  2942ms DLog                   OnActionExecuted   - TEST
-INFO  2019-04-11 08:36:53,661 19929ms DBLog                  OnActionExecuted   - TEST
-INFO  2019-04-11 08:37:00,166 26435ms DBLog                  OnActionExecuted   - TEST
-INFO  2019-04-11 08:37:03,287 29556ms DBLog                  OnActionExecuted   - TEST
-INFO  2019-04-11 08:37:05,774 32042ms DBLog                  OnActionExecuted   - TEST
-INFO  2019-04-11 08:41:10,969 15734ms                        OnActionExecuted   - mes
-INFO  2019-04-11 08:41:36,747  2162ms                        OnActionExecuted   - mes
-INFO  2019-04-11 08:41:43,859  9275ms                        OnActionExecuted   - mes
-INFO  2019-04-11 08:41:45,683 11099ms                        OnActionExecuted   - mes
-INFO  2019-04-11 08:46:35,683   352ms                        OnActionExecuted   - mes
-INFO  2019-04-11 08:46:39,367  4036ms                        OnActionExecuted   - mes
-INFO  2019-04-11 08:46:40,247  4917ms                        OnActionExecuted   - mes
-INFO  2019-04-11 09:06:25,397  7362ms HomeController         OnActionExecuted   - MyStore.Models.MyLogger
-INFO  2019-04-11 09:50:28,961   359ms HomeController         OnActionExecuted   - fa
-INFO  2019-04-11 09:56:17,547   384ms HomeController         OnActionExecuted   - fa
-INFO  2019-04-11 09:56:25,772  1335ms HomeController         OnActionExecuted   - fa
-INFO  2019-04-11 09:57:47,287   345ms HomeController         OnActionExecuted   - fa
-INFO  2019-04-11 10:01:17,631   353ms HomeController         OnActionExecuted   - fa
-INFO  2019-04-11 10:01:24,526  7248ms HomeController         OnActionExecuted   - fa
-INFO  2019-04-11 10:01:25,578  8300ms HomeController         OnActionExecuted   - fa
-INFO  2019-04-11 10:01:26,825  9547ms HomeController         OnActionExecuted   - fa
-INFO  2019-04-11 10:01:27,416 10138ms HomeController         OnActionExecuted   - fa
-INFO  2019-04-11 10:05:49,642   375ms HomeController         OnActionExecuted   - fa
-INFO  2019-04-11 10:05:52,582  3316ms HomeController         OnActionExecuted   - fa
-INFO  2019-04-11 10:05:54,609  5342ms HomeController         OnActionExecuted   - fa
-INFO  2019-04-11 10:08:15,583   363ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:08:18,644  3424ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:08:19,261  4041ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:08:20,092  4872ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:08:20,892  5672ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:10:15,504   404ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:10:18,553  3453ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:10:19,479  4379ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:10:20,435  5335ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:11:00,309  1371ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:11:02,637  3698ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:11:06,022  7084ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:11:06,049  7111ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:11:08,154  9216ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:12:15,098   354ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:12:19,268  4524ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:12:20,957  6214ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:13:42,878   370ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:13:46,236  3728ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:14:09,408 26900ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:14:10,330 27822ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:15:04,186   363ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:15:08,690  4866ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:15:08,891  5068ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:15:10,377  6554ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:15:11,697  7873ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:16:39,465   394ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:17:37,677  1472ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:17:43,102  6897ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:17:44,592  8388ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:17:44,612  8408ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:17:45,621  9416ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:17:46,536 10332ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:17:47,629 11425ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:17:47,640 11436ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:17:48,321 12116ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:17:49,928 13724ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:17:49,937 13733ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:18:30,457   411ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:18:36,119  6073ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:18:37,290  7245ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:18:38,235  8189ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:18:39,116  9070ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:18:39,141  9095ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:18:40,540 10494ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:18:41,338 11292ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:18:41,885 11839ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:18:42,361 12315ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:18:43,195 13150ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:18:44,629 14583ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:18:45,616 15570ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:18:45,629 15583ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:18:46,166 16121ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:18:46,954 16908ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:18:48,197 18151ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:19:35,799  1408ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:20:26,305  1339ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:22:26,872   346ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:25:49,723   379ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:25:56,227  6884ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:27:08,981  1352ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:27:11,760  4131ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:27:13,078  5448ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:27:17,711 10081ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:27:17,732 10103ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:27:18,346 10717ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:27:18,363 10734ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:27:19,872 12243ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:27:20,850 13220ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:27:21,610 13980ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:27:21,623 13993ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:27:23,813 16183ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:27:26,162 18533ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 10:27:26,179 18550ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 13:40:22,346   409ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 13:40:25,974  4037ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 13:41:36,076  1356ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 13:41:39,320  4600ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 13:42:52,763   371ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 13:42:56,300  3908ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 13:44:44,226   388ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 13:44:47,609  3771ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 13:51:24,090   820ms DBLog                  OnActionExecuting  - Message
-INFO  2019-04-11 13:51:24,138   868ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 13:51:29,193  5923ms DBLog                  OnActionExecuting  - Message
-INFO  2019-04-11 13:51:29,208  5938ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 13:52:41,804  1366ms DBLog                  OnActionExecuting  - Message
-INFO  2019-04-11 13:52:41,851  1414ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 13:52:44,977  4540ms DBLog                  OnActionExecuting  - Message
-INFO  2019-04-11 13:52:45,326  4888ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 13:52:47,378  6940ms DBLog                  OnActionExecuting  - Message
-INFO  2019-04-11 13:52:47,394  6956ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 13:52:48,322  7884ms DBLog                  OnActionExecuting  - Message
-INFO  2019-04-11 13:52:48,324  7886ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 13:52:49,047  8610ms DBLog                  OnActionExecuting  - Message
-INFO  2019-04-11 13:52:49,051  8614ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 13:52:49,894  9456ms DBLog                  OnActionExecuting  - Message
-INFO  2019-04-11 13:52:49,896  9458ms DBLog                  OnActionExecuted   - Message
-INFO  2019-04-11 13:56:14,557   395ms DBLog                  OnActionExecuting  - Message
-INFO  2019-04-11 13:56:14,606   445ms DBLog                  OnActionExecuted   - Message
+RequestTime: 11.04.2019 15:14:45 
+ Username: IgorMurtusaliev 
+ RequestUri: / 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 11.04.2019 15:14:45 
+ Username: IgorMurtusaliev 
+ RequestUri: / 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 11.04.2019 15:14:45 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 11.04.2019 15:14:48 
+ Username: IgorMurtusaliev 
+ RequestUri: /Orders 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 11.04.2019 15:14:48 
+ Username: IgorMurtusaliev 
+ RequestUri: /Orders 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 11.04.2019 15:14:48 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 11.04.2019 15:14:55 
+ Username: IgorMurtusaliev 
+ RequestUri: /Home/LoggerTest 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 11.04.2019 15:14:55 
+ Username: IgorMurtusaliev 
+ RequestUri: /Home/LoggerTest 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 11.04.2019 15:14:57 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 11.04.2019 15:14:55 
+ Username: IgorMurtusaliev 
+ RequestUri: /Home/LoggerTest 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 11.04.2019 15:14:57 
+  StackTrace:    в MyStore.Controllers.HomeController.LoggerTest() в C:\Users\User\Desktop\MyStore\MyStore\Controllers\HomeController.cs:строка 50
+   в lambda_method(Closure , ControllerBase , Object[] )
+   в System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   в System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   в System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   в System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c.<BeginInvokeSynchronousActionMethod>b__9_0(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   в System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   в System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   в System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   в System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_0.<InvokeActionMethodFilterAsynchronouslyRecursive>b__0()
+   в System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_2.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   в System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_2.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   в System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   в System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   в System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   в System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   в System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__4()
+   в System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__1(IAsyncResult asyncResult) 
+  OnExceptionessage: Индекс находился вне границ массива. 
+---------------------------------------- 

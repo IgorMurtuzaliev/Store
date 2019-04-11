@@ -265,6 +265,10 @@
     <Compile Include="Migrations\201904101529470_Logger.Designer.cs">
       <DependentUpon>201904101529470_Logger.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201904110655312_log2.cs" />
+    <Compile Include="Migrations\201904110655312_log2.Designer.cs">
+      <DependentUpon>201904110655312_log2.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Account.cs" />
     <Compile Include="Models\ApplicationDbContext.cs" />
@@ -380,6 +384,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201904101529470_Logger.resx">
       <DependentUpon>201904101529470_Logger.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201904110655312_log2.resx">
+      <DependentUpon>201904110655312_log2.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

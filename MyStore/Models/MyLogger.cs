@@ -8,7 +8,7 @@ namespace MyStore.Models
     public class MyLogger
     {
         public int Id { get; set; }
-        public DateTime RequestTime { get; set; }
+        public string RequestTime { get; set; }
         public string Username { get; set; }
         public string RequestUri { get; set; }
         public string StatusCode { get; set; }

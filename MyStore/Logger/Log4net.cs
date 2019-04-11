@@ -9,7 +9,7 @@ namespace MyStore.Logger
 {
     public static class Log4net
     {
-        private static ILog log = LogManager.GetLogger("");
+        private static ILog log = LogManager.GetLogger("DBLog");
         public static ILog Log
         {
             get { return log; }

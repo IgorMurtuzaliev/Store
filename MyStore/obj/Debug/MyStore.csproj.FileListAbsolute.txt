@@ -308,3 +308,4 @@ C:\Users\User\Desktop\MyStore\MyStore\bin\Microsoft.Owin.Security.Facebook.xml
 C:\Users\User\Desktop\MyStore\MyStore\bin\log4net.dll
 C:\Users\User\Desktop\MyStore\MyStore\bin\log4net.xml
 C:\Users\User\Desktop\MyStore\MyStore\obj\Debug\MyStore.Migrations.Logger.resources
+C:\Users\User\Desktop\MyStore\MyStore\obj\Debug\MyStore.Migrations.log2.resources

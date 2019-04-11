@@ -269,6 +269,14 @@
     <Compile Include="Migrations\201904110655312_log2.Designer.cs">
       <DependentUpon>201904110655312_log2.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201904111036257_migr.cs" />
+    <Compile Include="Migrations\201904111036257_migr.Designer.cs">
+      <DependentUpon>201904111036257_migr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201904111058390_migt.cs" />
+    <Compile Include="Migrations\201904111058390_migt.Designer.cs">
+      <DependentUpon>201904111058390_migt.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Account.cs" />
     <Compile Include="Models\ApplicationDbContext.cs" />
@@ -387,6 +395,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201904110655312_log2.resx">
       <DependentUpon>201904110655312_log2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201904111036257_migr.resx">
+      <DependentUpon>201904111036257_migr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201904111058390_migt.resx">
+      <DependentUpon>201904111058390_migt.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

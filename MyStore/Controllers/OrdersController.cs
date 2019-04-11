@@ -6,21 +6,25 @@ using System.Linq;
 using System.Net;
 using System.Web;
 using System.Web.Mvc;
+using log4net;
 using Microsoft.AspNet.Identity;
+using MyStore.Filters;
 using MyStore.Models;
 using MyStore.ViewModels;
 
 namespace MyStore.Controllers
 {
-    
+
     public class OrdersController : Controller
     {
+        private static readonly ILog log = log4net.LogManager.GetLogger("DBLog");
         private ApplicationDbContext db = new ApplicationDbContext();
+        [MyAction]
         public ActionResult Index()
         {
             return View(db.Orders.Include(c => c.User).ToList());
         }
-
+        [MyAction]
         public ActionResult Details(int? id)
         {
             if (id == null)
@@ -34,7 +38,7 @@ namespace MyStore.Controllers
             }
             return View(order);
         }
-
+        [MyAction]
         public ActionResult Create()
         {
             ViewBag.UserId = new SelectList(db.Users, "Id", "Name");

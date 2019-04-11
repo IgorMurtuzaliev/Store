@@ -24,3 +24,30 @@ DEBUG 2019-04-10 18:43:47,963 20633ms LoggerAppender         OnActionExecuted   
 INFO  2019-04-10 18:57:05,689  2045ms LoggerAppender         OnActionExecuted   - 
 INFO  2019-04-10 19:01:13,142  1789ms LoggerAppender         OnActionExecuted   - 
 INFO  2019-04-10 19:03:07,731  2063ms LoggerAppender         OnActionExecuted   - 
+INFO  2019-04-11 07:41:59,923  8706ms                        OnActionExecuted   - 
+INFO  2019-04-11 07:42:10,362 19145ms                        OnActionExecuted   - 
+INFO  2019-04-11 07:49:06,212 16691ms DBLog                  OnActionExecuted   - 
+INFO  2019-04-11 07:50:45,252   316ms DBLog                  OnActionExecuted   - 
+INFO  2019-04-11 07:50:52,807  7871ms DBLog                  OnActionExecuted   - 
+INFO  2019-04-11 07:50:55,028 10092ms DBLog                  OnActionExecuted   - 
+INFO  2019-04-11 07:50:56,678 11742ms DBLog                  OnActionExecuted   - 
+INFO  2019-04-11 07:52:13,720  1315ms DBLog                  OnActionExecuted   - 
+INFO  2019-04-11 07:52:16,072  3667ms DBLog                  OnActionExecuted   - 
+INFO  2019-04-11 07:52:17,162  4757ms DBLog                  OnActionExecuted   - 
+INFO  2019-04-11 07:52:17,823  5418ms DBLog                  OnActionExecuted   - 
+INFO  2019-04-11 08:16:28,415   332ms DBLog                  OnActionExecuted   - 
+INFO  2019-04-11 08:19:16,807 128364ms DBLog                  OnActionExecuted   - 
+INFO  2019-04-11 08:25:17,434 11089ms DLog                   OnActionExecuted   - TEST
+INFO  2019-04-11 08:28:26,519  2942ms DLog                   OnActionExecuted   - TEST
+INFO  2019-04-11 08:36:53,661 19929ms DBLog                  OnActionExecuted   - TEST
+INFO  2019-04-11 08:37:00,166 26435ms DBLog                  OnActionExecuted   - TEST
+INFO  2019-04-11 08:37:03,287 29556ms DBLog                  OnActionExecuted   - TEST
+INFO  2019-04-11 08:37:05,774 32042ms DBLog                  OnActionExecuted   - TEST
+INFO  2019-04-11 08:41:10,969 15734ms                        OnActionExecuted   - mes
+INFO  2019-04-11 08:41:36,747  2162ms                        OnActionExecuted   - mes
+INFO  2019-04-11 08:41:43,859  9275ms                        OnActionExecuted   - mes
+INFO  2019-04-11 08:41:45,683 11099ms                        OnActionExecuted   - mes
+INFO  2019-04-11 08:46:35,683   352ms                        OnActionExecuted   - mes
+INFO  2019-04-11 08:46:39,367  4036ms                        OnActionExecuted   - mes
+INFO  2019-04-11 08:46:40,247  4917ms                        OnActionExecuted   - mes
+INFO  2019-04-11 09:06:25,397  7362ms HomeController         OnActionExecuted   - MyStore.Models.MyLogger

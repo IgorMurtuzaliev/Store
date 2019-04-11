@@ -11,9 +11,11 @@ namespace MyStore.Controllers
 {
     public class HomeController : Controller
     {
-        private static readonly ILog Logger = LogManager.GetLogger(System.Environment.MachineName);
+        private static readonly ILog Logger = LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
+
         private ApplicationDbContext db = new ApplicationDbContext();
         Exception ex = new Exception();
+        [MyAction]
         public ActionResult Index()
         {
             

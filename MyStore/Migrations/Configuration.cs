@@ -1,5 +1,8 @@
 namespace MyStore.Migrations
 {
+    using Microsoft.AspNet.Identity;
+    using Microsoft.AspNet.Identity.EntityFramework;
+    using MyStore.Models;
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Migrations;
@@ -18,6 +21,8 @@ namespace MyStore.Migrations
 
             //  You can use the DbSet<T>.AddOrUpdate() helper extension method 
             //  to avoid creating duplicate seed data.
+            var UserManager = new UserManager<User>(new UserStore<User>(context));
+            UserManager.AddToRole("5160b755-516f-464e-92c1-7e2a046ae944", "Admin");
         }
     }
 }

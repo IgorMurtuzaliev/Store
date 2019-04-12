@@ -47,7 +47,7 @@ namespace MyStore.Controllers
         }
 
         [HttpPost]
-        [ValidateAntiForgeryToken]
+       // [ValidateAntiForgeryToken]
         public ActionResult Create(OrderViewModel orderVM)
         {
             //[Bind(Include = "OrderId,TimeOfOrder,UserId")] 

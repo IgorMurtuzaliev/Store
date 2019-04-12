@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <Product xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <ProductId>2</ProductId>
-  <Name>Tomato</Name>
-  <Price>12</Price>
-  <Description>Red</Description>
-  <Date>2019-04-06T12:58:01.1073275+03:00</Date>
+  <ProductId>4</ProductId>
+  <Name>Orange</Name>
+  <Price>8</Price>
+  <Description>Orange</Description>
+  <Date>2019-04-12T13:50:41.1777304+03:00</Date>
 </Product>

@@ -83,6 +83,7 @@ namespace MyStore.Controllers
                 IdentityResult result = await UserManager.CreateAsync(user, model.Password);
                 if (result.Succeeded)
                 {
+                    await UserManager.AddToRoleAsync(user.Id, "Manager");
                     // наш email с заголовком письма
                     MailAddress from = new MailAddress("ingwarrior.99@yandex.ru", "Web Registration");
                     // кому отправляем
@@ -100,7 +101,7 @@ namespace MyStore.Controllers
                     SmtpClient smtp = new System.Net.Mail.SmtpClient("smtp.yandex.ru", 25);
                     // логин и пароль
                     smtp.EnableSsl = true;
-                    smtp.Credentials = new System.Net.NetworkCredential("ingwarrior.99@yandex.ru", "");
+                    smtp.Credentials = new System.Net.NetworkCredential("ingwarrior.99@yandex.ru", "038161401IngWar9991");
                     smtp.Send(m);
                     return RedirectToAction("Confirm", "Account", new { Email = user.Email });
                 }
@@ -164,7 +165,7 @@ namespace MyStore.Controllers
         }
 
         [HttpPost]
-        [ValidateAntiForgeryToken]
+        //[ValidateAntiForgeryToken]
         public async Task<ActionResult> Login(LoginModel model, string returnUrl)
         {
             if (ModelState.IsValid)

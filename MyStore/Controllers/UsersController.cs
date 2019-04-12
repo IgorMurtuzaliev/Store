@@ -39,7 +39,7 @@ namespace MyStore.Controllers
         }
 
         [HttpPost]
-        [ValidateAntiForgeryToken]
+       // [ValidateAntiForgeryToken]
         public ActionResult Create([Bind(Include = "UserId,Name,LastName,Email,DateOfRegister")] User user)
         {
             if (ModelState.IsValid)

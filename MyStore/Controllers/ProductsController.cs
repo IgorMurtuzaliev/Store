@@ -34,14 +34,14 @@ namespace MyStore.Controllers
             }
             return View(product);
         }
-
+        [Authorize(Roles = "Admin")]
         public ActionResult Create()
         {
             return View();
         }
-
+        [Authorize(Roles = "Admin")]
         [HttpPost]
-        [ValidateAntiForgeryToken]
+        //[ValidateAntiForgeryToken]
         public ActionResult Create(Product product)
         {
             if (ModelState.IsValid)
@@ -74,7 +74,7 @@ namespace MyStore.Controllers
              }
            
          }
-
+        [Authorize(Roles = "Admin, Manager")]
         public ActionResult Edit(int? id)
         {
             if (id == null)
@@ -88,9 +88,9 @@ namespace MyStore.Controllers
             }
             return View(product);
         }
-
+        [Authorize(Roles = "Admin, Manager")]
         [HttpPost]
-        [ValidateAntiForgeryToken]
+        //[ValidateAntiForgeryToken]
         public ActionResult Edit([Bind(Include = "ProductId,Name,Price,Description,Date")] Product product)
         {
             if (ModelState.IsValid)
@@ -101,7 +101,7 @@ namespace MyStore.Controllers
             }
             return View(product);
         }
-
+        [Authorize(Roles = "Admin")]
         public ActionResult Delete(int? id)
         {
             if (id == null)
@@ -116,9 +116,9 @@ namespace MyStore.Controllers
             return View(product);
         }
 
-
+        [Authorize(Roles = "Admin")]
         [HttpPost, ActionName("Delete")]
-        [ValidateAntiForgeryToken]
+        //[ValidateAntiForgeryToken]
         public ActionResult DeleteConfirmed(int id)
         {
             Product product = db.Products.Find(id);

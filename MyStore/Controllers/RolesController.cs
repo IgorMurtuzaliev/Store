@@ -37,7 +37,6 @@ namespace MyStore.Controllers
                 IdentityResult result = await RoleManager.CreateAsync(new ApplicationRole
                 {
                     Name = model.Name,
-                    Description = model.Description
                 });
                 if (result.Succeeded)
                 {
@@ -56,7 +55,7 @@ namespace MyStore.Controllers
             ApplicationRole role = await RoleManager.FindByIdAsync(id);
             if (role != null)
             {
-                return View(new EditRoleModel { Id = role.Id, Name = role.Name, Description = role.Description });
+                return View(new EditRoleModel { Id = role.Id, Name = role.Name});
             }
             return RedirectToAction("Index");
         }
@@ -68,7 +67,6 @@ namespace MyStore.Controllers
                 ApplicationRole role = await RoleManager.FindByIdAsync(model.Id);
                 if (role != null)
                 {
-                    role.Description = model.Description;
                     role.Name = model.Name;
                     IdentityResult result = await RoleManager.UpdateAsync(role);
                     if (result.Succeeded)

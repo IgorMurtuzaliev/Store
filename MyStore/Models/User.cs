@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
+using MyStore.Areas.Shop.Models;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;

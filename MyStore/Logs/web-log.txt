@@ -2745,3 +2745,1575 @@ RequestTime: 12.04.2019 13:53:58
   StackTrace: (null) 
   OnActionExecutedessage: (null) 
 ---------------------------------------- 
+RequestTime: 12.04.2019 15:19:21 
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:19:21 
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:19:21 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:21:43 
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:21:43 
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:21:43 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:21:54 
+ Username: IgorMurtuzaliev 
+ RequestUri: /Admin/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:21:54 
+ Username: IgorMurtuzaliev 
+ RequestUri: /Admin/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:21:54 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:21:56 
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:21:56 
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:21:56 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:23:14 
+ Username: IgorMurtuzaliev 
+ RequestUri: /Admin/Products/Index 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:23:14 
+ Username: IgorMurtuzaliev 
+ RequestUri: /Admin/Products/Index 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:23:14 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:24:09 
+ Username: IgorMurtuzaliev 
+ RequestUri: /Orders 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:24:09 
+ Username: IgorMurtuzaliev 
+ RequestUri: /Orders 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:24:09 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:24:10 
+ Username: IgorMurtuzaliev 
+ RequestUri: /Admin/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:24:10 
+ Username: IgorMurtuzaliev 
+ RequestUri: /Admin/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:24:10 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:24:11 
+ Username: IgorMurtuzaliev 
+ RequestUri: /Users 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:24:11 
+ Username: IgorMurtuzaliev 
+ RequestUri: /Users 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:24:11 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:24:12 
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:24:12 
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:24:12 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:24:12 
+ Username: IgorMurtuzaliev 
+ RequestUri: /Admin/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:24:12 
+ Username: IgorMurtuzaliev 
+ RequestUri: /Admin/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:24:12 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:24:13 
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:24:13 
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:24:13 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:24:18 
+ Username: IgorMurtuzaliev 
+ RequestUri: /Users 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:24:18 
+ Username: IgorMurtuzaliev 
+ RequestUri: /Users 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:24:18 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:24:19 
+ Username: IgorMurtuzaliev 
+ RequestUri: /Admin/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:24:19 
+ Username: IgorMurtuzaliev 
+ RequestUri: /Admin/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:24:19 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:24:27 
+ Username: IgorMurtuzaliev 
+ RequestUri: /Orders 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:24:27 
+ Username: IgorMurtuzaliev 
+ RequestUri: /Orders 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:24:27 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:24:28 
+ Username: IgorMurtuzaliev 
+ RequestUri: /Admin/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:24:28 
+ Username: IgorMurtuzaliev 
+ RequestUri: /Admin/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:24:28 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:25:48 
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:25:48 
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:25:48 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:25:52 
+ Username: IgorMurtuzaliev 
+ RequestUri: /Account/Logout 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:25:52 
+ Username: IgorMurtuzaliev 
+ RequestUri: /Account/Logout 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:25:52 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:25:52 
+ Username:  
+ RequestUri: / 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:25:52 
+ Username:  
+ RequestUri: / 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:25:52 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:25:55 
+ Username:  
+ RequestUri: /Account/Login 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:25:55 
+ Username:  
+ RequestUri: /Account/Login 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:25:55 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:25:58 
+ Username:  
+ RequestUri: /Account/GoogleLogin 
+ StatusCode: (null) 
+ Headers: {Cache-Control, Connection, Content-Length, Content-Type, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:25:58 
+ Username:  
+ RequestUri: /Account/GoogleLogin 
+ StatusCode: 401 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:25:58 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:25:59 
+ Username:  
+ RequestUri: /Account/GoogleLoginCallback 
+ StatusCode: (null) 
+ Headers: {Cache-Control, Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:25:59 
+ Username:  
+ RequestUri: /Account/GoogleLoginCallback 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:26:00 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:26:00 
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: (null) 
+ Headers: {Cache-Control, Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:26:00 
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:26:00 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:26:00 
+ Username: IgorMurtuzaliev 
+ RequestUri: /Admin/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:26:00 
+ Username: IgorMurtuzaliev 
+ RequestUri: /Admin/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:26:00 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:26:02 
+ Username: IgorMurtuzaliev 
+ RequestUri: /Account/Logout 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:26:02 
+ Username: IgorMurtuzaliev 
+ RequestUri: /Account/Logout 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:26:02 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:26:02 
+ Username:  
+ RequestUri: / 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:26:02 
+ Username:  
+ RequestUri: / 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:26:02 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:26:03 
+ Username:  
+ RequestUri: /Account/Login 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:26:03 
+ Username:  
+ RequestUri: /Account/Login 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:26:03 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:26:04 
+ Username:  
+ RequestUri: /Account/GoogleLogin 
+ StatusCode: (null) 
+ Headers: {Cache-Control, Connection, Content-Length, Content-Type, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:26:04 
+ Username:  
+ RequestUri: /Account/GoogleLogin 
+ StatusCode: 401 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:26:04 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:26:05 
+ Username:  
+ RequestUri: /Account/GoogleLoginCallback 
+ StatusCode: (null) 
+ Headers: {Cache-Control, Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:26:05 
+ Username:  
+ RequestUri: /Account/GoogleLoginCallback 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:26:05 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:26:05 
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: (null) 
+ Headers: {Cache-Control, Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:26:05 
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:26:05 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:26:05 
+ Username: IgorMurtuzaliev 
+ RequestUri: /Admin/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:26:05 
+ Username: IgorMurtuzaliev 
+ RequestUri: /Admin/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:26:05 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:26:09 
+ Username: IgorMurtuzaliev 
+ RequestUri: /Account/Logout 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:26:09 
+ Username: IgorMurtuzaliev 
+ RequestUri: /Account/Logout 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:26:09 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:26:09 
+ Username:  
+ RequestUri: / 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:26:09 
+ Username:  
+ RequestUri: / 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:26:09 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:46:58 
+ Username:  
+ RequestUri: / 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:46:58 
+ Username:  
+ RequestUri: / 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:46:58 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:47:07 
+ Username:  
+ RequestUri: /Admin/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:47:07 
+ Username:  
+ RequestUri: /Admin/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:47:07 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:47:07 
+ Username:  
+ RequestUri: /Admin/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:47:07 
+  StackTrace:    â System.Web.Compilation.AssemblyBuilder.Compile()
+   â System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   â System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   â System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   â System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   â System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   â System.Web.Compilation.BuildManager.GetCompiledType(VirtualPath virtualPath)
+   â System.Web.Compilation.BuildManager.GetCompiledType(String virtualPath)
+   â System.Web.Mvc.BuildManagerWrapper.System.Web.Mvc.IBuildManager.GetCompiledType(String virtualPath)
+   â System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   â System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   â System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   â System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   â System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   â System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   â System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__4()
+   â System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__1(IAsyncResult asyncResult) 
+  OnExceptionessage: C:\Users\User\AppData\Local\Temp\Temporary ASP.NET Files\vs\a72537e7\b89bf46a\App_Web_index.cshtml.96cad0f2.na2aohxv.0.cs(31): error CS0234: The type or namespace name 'Product' does not exist in the namespace 'MyStore.Models' (are you missing an assembly reference?) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:49:02 
+ Username:  
+ RequestUri: /Account/Login?ReturnUrl=%2FAdmin%2FProducts%2FCreate 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {ReturnUrl} 
+  HttpMethod: {ReturnUrl} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:49:02 
+ Username:  
+ RequestUri: /Account/Login?ReturnUrl=%2FAdmin%2FProducts%2FCreate 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {ReturnUrl} 
+  HttpMethod: {ReturnUrl} 
+ ResponseTime: 12.04.2019 15:49:02 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:49:05 
+ Username:  
+ RequestUri: /Admin/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:49:05 
+ Username:  
+ RequestUri: /Admin/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:49:05 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:49:08 
+ Username:  
+ RequestUri: /Orders 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:49:08 
+ Username:  
+ RequestUri: /Orders 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:49:08 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:49:08 
+ Username:  
+ RequestUri: /Orders 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:49:08 
+  StackTrace:    â System.Web.Compilation.AssemblyBuilder.Compile()
+   â System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   â System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   â System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   â System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   â System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   â System.Web.Compilation.BuildManager.GetCompiledType(VirtualPath virtualPath)
+   â System.Web.Compilation.BuildManager.GetCompiledType(String virtualPath)
+   â System.Web.Mvc.BuildManagerWrapper.System.Web.Mvc.IBuildManager.GetCompiledType(String virtualPath)
+   â System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   â System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   â System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   â System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   â System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   â System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   â System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__4()
+   â System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__1(IAsyncResult asyncResult) 
+  OnExceptionessage: C:\Users\User\AppData\Local\Temp\Temporary ASP.NET Files\vs\a72537e7\b89bf46a\App_Web_index.cshtml.8c32f4cc.el3e4mlg.0.cs(31): error CS0234: The type or namespace name 'Order' does not exist in the namespace 'MyStore.Models' (are you missing an assembly reference?) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:55:10 
+ Username:  
+ RequestUri: / 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:55:10 
+ Username:  
+ RequestUri: / 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:55:10 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:55:13 
+ Username:  
+ RequestUri: /Users 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:55:13 
+ Username:  
+ RequestUri: /Users 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:55:13 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:55:14 
+ Username:  
+ RequestUri: /Admin/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:55:14 
+ Username:  
+ RequestUri: /Admin/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:55:14 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:55:15 
+ Username:  
+ RequestUri: /Orders 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:55:15 
+ Username:  
+ RequestUri: /Orders 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:55:15 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:55:15 
+ Username:  
+ RequestUri: /Orders 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:55:15 
+  StackTrace:    â System.Web.Compilation.AssemblyBuilder.Compile()
+   â System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   â System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   â System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   â System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   â System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   â System.Web.Compilation.BuildManager.GetCompiledType(VirtualPath virtualPath)
+   â System.Web.Compilation.BuildManager.GetCompiledType(String virtualPath)
+   â System.Web.Mvc.BuildManagerWrapper.System.Web.Mvc.IBuildManager.GetCompiledType(String virtualPath)
+   â System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   â System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   â System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   â System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   â System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   â System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   â System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__4()
+   â System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__1(IAsyncResult asyncResult) 
+  OnExceptionessage: C:\Users\User\AppData\Local\Temp\Temporary ASP.NET Files\vs\a72537e7\b89bf46a\App_Web_index.cshtml.8c32f4cc.e25afh5t.0.cs(31): error CS0234: The type or namespace name 'Order' does not exist in the namespace 'MyStore.Models' (are you missing an assembly reference?) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:56:56 
+ Username:  
+ RequestUri: / 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:56:56 
+ Username:  
+ RequestUri: / 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:56:56 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:56:59 
+ Username:  
+ RequestUri: /Admin/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:56:59 
+ Username:  
+ RequestUri: /Admin/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:56:59 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:58:23 
+ Username:  
+ RequestUri: /Shop/Orders/Delete 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:58:23 
+ Username:  
+ RequestUri: /Shop/Orders/Delete 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:58:23 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:58:28 
+ Username:  
+ RequestUri: /Shop/Orders 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 15:58:28 
+ Username:  
+ RequestUri: /Shop/Orders 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 15:58:28 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 16:01:00 
+ Username:  
+ RequestUri: /Account/Login?ReturnUrl=%2FShop%2FProducts%2FDelete 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {ReturnUrl} 
+  HttpMethod: {ReturnUrl} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 16:01:00 
+ Username:  
+ RequestUri: /Account/Login?ReturnUrl=%2FShop%2FProducts%2FDelete 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {ReturnUrl} 
+  HttpMethod: {ReturnUrl} 
+ ResponseTime: 12.04.2019 16:01:00 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 16:01:06 
+ Username:  
+ RequestUri: / 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 16:01:06 
+ Username:  
+ RequestUri: / 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 16:01:06 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 16:01:08 
+ Username:  
+ RequestUri: /Users 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 16:01:08 
+ Username:  
+ RequestUri: /Users 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 16:01:08 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 16:01:09 
+ Username:  
+ RequestUri: /Admin/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 16:01:09 
+ Username:  
+ RequestUri: /Admin/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 16:01:09 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 16:01:10 
+ Username:  
+ RequestUri: /Shop/Orders 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 16:01:10 
+ Username:  
+ RequestUri: /Shop/Orders 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 16:01:10 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 16:01:11 
+ Username:  
+ RequestUri: /Admin/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 16:01:11 
+ Username:  
+ RequestUri: /Admin/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 16:01:11 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 16:01:12 
+ Username:  
+ RequestUri: /Shop/Orders 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 16:01:12 
+ Username:  
+ RequestUri: /Shop/Orders 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 16:01:12 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 16:01:13 
+ Username:  
+ RequestUri: /Admin/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 16:01:13 
+ Username:  
+ RequestUri: /Admin/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 16:01:13 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 16:01:13 
+ Username:  
+ RequestUri: /Shop/Orders 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 16:01:13 
+ Username:  
+ RequestUri: /Shop/Orders 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 16:01:13 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 16:01:14 
+ Username:  
+ RequestUri: /Admin/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 16:01:14 
+ Username:  
+ RequestUri: /Admin/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 16:01:14 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 16:01:15 
+ Username:  
+ RequestUri: /Account/Register 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 16:01:15 
+ Username:  
+ RequestUri: /Account/Register 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 16:01:15 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 16:01:16 
+ Username:  
+ RequestUri: /Account/Login 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 16:01:16 
+ Username:  
+ RequestUri: /Account/Login 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 16:01:16 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 16:01:16 
+ Username:  
+ RequestUri: /Account/Register 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 16:01:16 
+ Username:  
+ RequestUri: /Account/Register 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 16:01:16 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 16:01:18 
+ Username:  
+ RequestUri: /Shop/Orders 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 16:01:18 
+ Username:  
+ RequestUri: /Shop/Orders 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 16:01:18 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 16:01:19 
+ Username:  
+ RequestUri: /Admin/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 16:01:19 
+ Username:  
+ RequestUri: /Admin/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 16:01:19 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 16:01:19 
+ Username:  
+ RequestUri: /Users 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 16:01:19 
+ Username:  
+ RequestUri: /Users 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 16:01:19 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 16:01:20 
+ Username:  
+ RequestUri: / 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 12.04.2019 16:01:20 
+ Username:  
+ RequestUri: / 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 12.04.2019 16:01:20 
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 

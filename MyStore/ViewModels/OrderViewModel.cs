@@ -1,4 +1,6 @@
-﻿using MyStore.Models;
+﻿using MyStore.Areas.Admin.Models;
+using MyStore.Areas.Shop.Models;
+using MyStore.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;

@@ -8,6 +8,7 @@ using System.Web;
 using System.Web.Mvc;
 using log4net;
 using Microsoft.AspNet.Identity;
+using MyStore.Areas.Shop.Models;
 using MyStore.Filters;
 using MyStore.Models;
 using MyStore.ViewModels;

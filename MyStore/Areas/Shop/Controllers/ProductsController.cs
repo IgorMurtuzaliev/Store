@@ -22,7 +22,7 @@ namespace MyStore.Areas.Shop.Controllers
             return View(db.Products.ToList());
         }
 
-        public ActionResult AddToCart(int? id)
+        public ActionResult AddToCart(Cart cart, int? id)
         {
             if (id == null)
             {
@@ -31,20 +31,9 @@ namespace MyStore.Areas.Shop.Controllers
             Product product = db.Products.Find(id);
             if (product != null)
             {
-                GetCart().AddItem(product, 1);
+                cart.AddItem(product, 1);
             }
-            return RedirectToAction("Index", new { area = "", controller = "Cart" });
-        }
-
-        private Cart GetCart()
-        {
-            Cart cart = (Cart)Session["Cart"];
-            if (cart == null)
-            {
-                cart = new Cart();
-                Session["Cart"] = cart;
-            }
-            return cart;
+            return RedirectToAction("Index", new { area = "Shop", controller = "Products" });
         }
 
         public ActionResult Details(int? id)

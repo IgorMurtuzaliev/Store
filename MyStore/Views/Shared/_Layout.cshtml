@@ -30,6 +30,7 @@
                         }
                         else
                         {
+                            <li style=" color:aliceblue; margin-top:15px">@{Html.RenderAction("Summary", new { area = "", controller = "Cart" }); }   </li>
                             <li>@Html.ActionLink("Products", "Index", new { area = "Shop", controller = "Products" })</li>
                             <li>@Html.ActionLink("Orders", "Index", new { area = "Shop", controller = "Orders" })</li>
                         }

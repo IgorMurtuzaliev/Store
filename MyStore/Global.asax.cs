@@ -1,4 +1,6 @@
-﻿using MyStore.Logger;
+﻿using MyStore.Binders;
+using MyStore.Logger;
+using MyStore.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,6 +21,7 @@ namespace MyStore
             BundleConfig.RegisterBundles(BundleTable.Bundles);
             Log4net.InitLogger();
             log4net.Config.XmlConfigurator.Configure();
+            ModelBinders.Binders.Add(typeof(Cart), new CartModelBinder());
         }
     } 
 }

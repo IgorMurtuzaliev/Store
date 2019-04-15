@@ -3,20 +3,21 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-using System.Web.ModelBinding;
+using System.Web.Mvc;
 
 namespace MyStore.Binders
 {
     public class CartModelBinder : IModelBinder
     {
         private const string sessionKey  = "Cart";
-        public bool BindModel(ModelBindingExecutionContext modelBindingExecutionContext, ModelBindingContext bindingContext)
+
+        public object BindModel(ControllerContext controllerContext, ModelBindingContext bindingContext)
         {
-            Cart cart = (Cart)modelBindingExecutionContext.HttpContext.Session[sessionKey];
-            if(cart == null)
+            Cart cart = (Cart)controllerContext.HttpContext.Session[sessionKey];
+            if (cart == null)
             {
                 cart = new Cart();
-                modelBindingExecutionContext.HttpContext.Session[sessionKey] = cart;
+                controllerContext.HttpContext.Session[sessionKey] = cart;
             }
             return cart;
         }

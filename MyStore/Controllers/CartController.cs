@@ -14,13 +14,13 @@ namespace MyStore.Controllers
     {
         private ApplicationDbContext db = new ApplicationDbContext();
         // GET: Cart
-        public ActionResult Index()
+        public ActionResult Index(Cart cart)
         {
             return View(new CartIndexViewModel {
-                Cart = GetCart()
+                Cart = cart
             });
         }
-        public ActionResult AddToCart(int?id)
+        public ActionResult AddToCart(Cart cart, int?id)
         {   Product product = db.Products.Find(id);
             if (id == null)
             {
@@ -29,12 +29,12 @@ namespace MyStore.Controllers
 
             if (product != null)
             {
-                GetCart().AddItem(product, 1);
+                cart.AddItem(product, 1);
             }
-            return RedirectToAction("Index");
+            return RedirectToAction("Index", new { area="Shop", controller = "Products"});
         }
 
-        public ActionResult RemoveFromCart(int? id)
+        public ActionResult RemoveFromCart(Cart cart, int? id)
         {
             Product product = db.Products.Find(id);
             if (id == null)
@@ -44,19 +44,13 @@ namespace MyStore.Controllers
 
             if (product != null)
             {
-                GetCart().RemoveLine(product);
+                cart.RemoveLine(product);
             }
             return RedirectToAction("Index");
         }
-        private Cart GetCart()
+        public ActionResult Summary(Cart cart)
         {
-            Cart cart = (Cart)Session["Cart"];
-            if(cart == null)
-            {
-                cart = new Cart();
-                Session["Cart"] = cart;
-            }
-            return cart;
+            return PartialView(cart);
         }
     }
 }

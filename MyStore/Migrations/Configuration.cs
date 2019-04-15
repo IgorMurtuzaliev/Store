@@ -21,12 +21,8 @@ namespace MyStore.Migrations
 
             //  You can use the DbSet<T>.AddOrUpdate() helper extension method 
             //  to avoid creating duplicate seed data.
-            //context.Roles.AddOrUpdate(r => r.Name,
-            //    new IdentityRole { Name = "Admin" },
-            //      new IdentityRole { Name = "Manager" },
-            //        new IdentityRole { Name = "User" });
             var UserManager = new UserManager<User>(new UserStore<User>(context));
-            UserManager.AddToRole("33865fd5-5d19-46cf-99fc-2ba63ca4201d", "Admin");
+            UserManager.AddToRole("5160b755-516f-464e-92c1-7e2a046ae944", "Admin");
         }
     }
 }

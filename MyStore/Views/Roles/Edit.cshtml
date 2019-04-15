@@ -1,6 +1,6 @@
 ﻿@model MyStore.Models.EditRoleModel
 
-<h2>Редактирование роли</h2>
+<h2>РEdit role</h2>
 
 @using (Html.BeginForm())
 {
@@ -10,6 +10,6 @@
         @Html.ValidationSummary(true, "")
         @Html.HiddenFor(model => model.Id)
         <p>Название:  @Html.EditorFor(model => model.Name)</p>
-        <p><input type="submit" value="Изменить" /></p>
+        <p><input type="submit" value="Edit" /></p>
     </div>
 }

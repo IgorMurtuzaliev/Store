@@ -8,6 +8,7 @@ using System.Web;
 using System.Web.Mvc;
 using log4net;
 using Microsoft.AspNet.Identity;
+using MyStore.Areas.Shop.Models;
 using MyStore.Filters;
 using MyStore.Models;
 using MyStore.ViewModels;
@@ -97,7 +98,7 @@ namespace MyStore.Controllers
         }
 
         [HttpPost]
-        [ValidateAntiForgeryToken]
+        //[ValidateAntiForgeryToken]
         public ActionResult Edit([Bind(Include = "OrderId,TimeOfOrder,UserId")] Order order)
         {
             if (ModelState.IsValid)
@@ -125,7 +126,7 @@ namespace MyStore.Controllers
         }
 
         [HttpPost, ActionName("Delete")]
-        [ValidateAntiForgeryToken]
+       // [ValidateAntiForgeryToken]
         public ActionResult DeleteConfirmed(int id)
         {
             Order order = db.Orders.Find(id);

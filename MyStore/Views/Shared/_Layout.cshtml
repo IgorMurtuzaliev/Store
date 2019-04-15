@@ -20,22 +20,37 @@
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
-                    <li>@Html.ActionLink("Users", "Index", "Users")</li>
-                    <li>@Html.ActionLink("Products", "Index", "Products")</li>
-                    <li>@Html.ActionLink("Orders", "Index", "Orders")</li>
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        if (User.IsInRole("Admin"))
+                        {
+                            <li>@Html.ActionLink("Users", "Index", new { area = "", controller = "Users" })</li>
+                            <li>@Html.ActionLink("Products", "Index", new { area = "Admin", controller = "Products" })</li>
+                            <li>@Html.ActionLink("Orders", "Index", new { area = "Shop", controller = "Orders" })</li>
+                        }
+                        else
+                        {
+                            <li>@Html.ActionLink("Products", "Index", new { area = "Shop", controller = "Products" })</li>
+                            <li>@Html.ActionLink("Orders", "Index", new { area = "Shop", controller = "Orders" })</li>
+                        }
+                    }
+                    else
+                    {
+                        <li>@Html.ActionLink("Products", "Index", new { area = "Shop", controller = "Products" })</li>
+                    }
                 </ul>
                 @if (User.Identity.IsAuthenticated)
                 {
                     <ul class="nav navbar-nav navbar-right">
                         <li style=" color:aliceblue; margin-top:15px"><p>Здравствуйте, @HttpContext.Current.User.Identity.Name.ToString()</p></li>
-                        <li>@Html.ActionLink("Logout", "Logout", "Account")</li>
+                        <li>@Html.ActionLink("Logout", "Logout",  new { area = "", controller = "Account"})</li>
                     </ul>
                 }
                 else
                 {
                     <ul class="nav navbar-nav navbar-right">   
-                        <li>@Html.ActionLink("Register", "Register", "Account")</li>
-                        <li>@Html.ActionLink("Login", "Login", "Account")</li>
+                        <li>@Html.ActionLink("Register", "Register",  new { area = "", controller = "Account"})</li>
+                        <li>@Html.ActionLink("Login", "Login",  new { area = "", controller = "Account"})</li>
                     </ul>
                 }
             </div>

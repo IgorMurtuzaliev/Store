@@ -248,7 +248,11 @@
     <Compile Include="App_Start\Startup.cs" />
     <Compile Include="Areas\Admin\AdminAreaRegistration.cs" />
     <Compile Include="Areas\Admin\Controllers\ProductsController.cs" />
+    <Compile Include="Areas\Admin\Models\Product.cs" />
+    <Compile Include="Areas\Shop\Controllers\OrdersController.cs" />
     <Compile Include="Areas\Shop\Controllers\ProductsController.cs" />
+    <Compile Include="Areas\Shop\Models\Order.cs" />
+    <Compile Include="Areas\Shop\Models\ProductOrder.cs" />
     <Compile Include="Areas\Shop\ShopAreaRegistration.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
@@ -261,29 +265,9 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Logger\Log4net.cs" />
-    <Compile Include="Migrations\201904060928355_Init.cs" />
-    <Compile Include="Migrations\201904060928355_Init.Designer.cs">
-      <DependentUpon>201904060928355_Init.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201904101529470_Logger.cs" />
-    <Compile Include="Migrations\201904101529470_Logger.Designer.cs">
-      <DependentUpon>201904101529470_Logger.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201904110655312_log2.cs" />
-    <Compile Include="Migrations\201904110655312_log2.Designer.cs">
-      <DependentUpon>201904110655312_log2.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201904111036257_migr.cs" />
-    <Compile Include="Migrations\201904111036257_migr.Designer.cs">
-      <DependentUpon>201904111036257_migr.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201904111058390_migt.cs" />
-    <Compile Include="Migrations\201904111058390_migt.Designer.cs">
-      <DependentUpon>201904111058390_migt.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201904120806244_aaa.cs" />
-    <Compile Include="Migrations\201904120806244_aaa.Designer.cs">
-      <DependentUpon>201904120806244_aaa.cs</DependentUpon>
+    <Compile Include="Migrations\201904121246264_Init.cs" />
+    <Compile Include="Migrations\201904121246264_Init.Designer.cs">
+      <DependentUpon>201904121246264_Init.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Account.cs" />
@@ -295,9 +279,6 @@
     <Compile Include="Models\EditRoleModel.cs" />
     <Compile Include="Models\LoginModel.cs" />
     <Compile Include="Models\MyLogger.cs" />
-    <Compile Include="Models\Order.cs" />
-    <Compile Include="Models\Product.cs" />
-    <Compile Include="Models\ProductOrder.cs" />
     <Compile Include="Models\RegisterModel.cs" />
     <Compile Include="Models\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -325,11 +306,13 @@
     <Content Include="Areas\Admin\Views\Products\Details.cshtml" />
     <Content Include="Areas\Admin\Views\Products\Edit.cshtml" />
     <Content Include="Areas\Admin\Views\Products\Index.cshtml" />
-    <Content Include="Areas\Shop\Views\Products\Create.cshtml" />
-    <Content Include="Areas\Shop\Views\Products\Delete.cshtml" />
     <Content Include="Areas\Shop\Views\Products\Details.cshtml" />
-    <Content Include="Areas\Shop\Views\Products\Edit.cshtml" />
     <Content Include="Areas\Shop\Views\Products\Index.cshtml" />
+    <Content Include="Areas\Shop\Views\Orders\Create.cshtml" />
+    <Content Include="Areas\Shop\Views\Orders\Delete.cshtml" />
+    <Content Include="Areas\Shop\Views\Orders\Details.cshtml" />
+    <Content Include="Areas\Shop\Views\Orders\Edit.cshtml" />
+    <Content Include="Areas\Shop\Views\Orders\Index.cshtml" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
@@ -380,9 +363,7 @@
     <Content Include="Views\Home\FindData.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Areas\Admin\Models\" />
     <Folder Include="Areas\Admin\Views\Shared\" />
-    <Folder Include="Areas\Shop\Models\" />
     <Folder Include="Areas\Shop\Views\Shared\" />
     <Folder Include="Files\" />
   </ItemGroup>
@@ -411,23 +392,8 @@
     </COMReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201904060928355_Init.resx">
-      <DependentUpon>201904060928355_Init.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201904101529470_Logger.resx">
-      <DependentUpon>201904101529470_Logger.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201904110655312_log2.resx">
-      <DependentUpon>201904110655312_log2.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201904111036257_migr.resx">
-      <DependentUpon>201904111036257_migr.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201904111058390_migt.resx">
-      <DependentUpon>201904111058390_migt.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201904120806244_aaa.resx">
-      <DependentUpon>201904120806244_aaa.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201904121246264_Init.resx">
+      <DependentUpon>201904121246264_Init.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

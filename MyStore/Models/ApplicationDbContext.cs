@@ -1,4 +1,6 @@
 ﻿using Microsoft.AspNet.Identity.EntityFramework;
+using MyStore.Areas.Admin.Models;
+using MyStore.Areas.Shop.Models;
 using System.Data.Entity;
 
 namespace MyStore.Models

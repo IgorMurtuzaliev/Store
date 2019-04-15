@@ -8,6 +8,7 @@ using System.Net;
 using System.Web;
 using System.Web.Mvc;
 using System.Xml.Serialization;
+using MyStore.Areas.Admin.Models;
 using MyStore.Models;
 
 namespace MyStore.Controllers

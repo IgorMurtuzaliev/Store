@@ -254,7 +254,9 @@
     <Compile Include="Areas\Shop\Models\Order.cs" />
     <Compile Include="Areas\Shop\Models\ProductOrder.cs" />
     <Compile Include="Areas\Shop\ShopAreaRegistration.cs" />
+    <Compile Include="Binders\CartModelBinder.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\CartController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\OrdersController.cs" />
     <Compile Include="Controllers\ProductsController.cs" />
@@ -275,6 +277,7 @@
     <Compile Include="Models\ApplicationRole.cs" />
     <Compile Include="Models\ApplicationRoleManager.cs" />
     <Compile Include="Models\ApplicationUserManager.cs" />
+    <Compile Include="Models\Cart.cs" />
     <Compile Include="Models\CreateRoleModel.cs" />
     <Compile Include="Models\EditRoleModel.cs" />
     <Compile Include="Models\LoginModel.cs" />
@@ -282,6 +285,7 @@
     <Compile Include="Models\RegisterModel.cs" />
     <Compile Include="Models\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ViewModels\CartIndexViewModel.cs" />
     <Compile Include="ViewModels\OrderViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -361,6 +365,7 @@
     <Content Include="Views\Roles\Create.cshtml" />
     <Content Include="Views\Roles\Edit.cshtml" />
     <Content Include="Views\Home\FindData.cshtml" />
+    <Content Include="Views\Cart\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Areas\Admin\Views\Shared\" />

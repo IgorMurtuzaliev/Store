@@ -13567,3 +13567,4747 @@ RequestTime: 04.15.2019 10:29:24.240
   StackTrace: (null) 
   OnActionExecutedessage: (null) 
 ---------------------------------------- 
+RequestTime: 04.15.2019 11:08:27.734  
+ Username: IgorMurtusaliev 
+ RequestUri: / 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 11:08:27.734  
+ Username: IgorMurtusaliev 
+ RequestUri: / 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 11:08:27.780  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 11:08:32.213  
+ Username: IgorMurtusaliev 
+ RequestUri: /Shop/Orders 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 11:08:32.213  
+ Username: IgorMurtusaliev 
+ RequestUri: /Shop/Orders 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 11:08:32.244  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 11:08:33.662  
+ Username: IgorMurtusaliev 
+ RequestUri: /Shop/Orders/Create 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 11:08:33.662  
+ Username: IgorMurtusaliev 
+ RequestUri: /Shop/Orders/Create 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 11:08:33.678  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 11:08:37.417  
+ Username: IgorMurtusaliev 
+ RequestUri: /Shop/Orders/Create 
+ StatusCode: (null) 
+ Headers: {Cache-Control, Connection, Content-Length, Content-Type, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 11:08:37.417  
+ Username: IgorMurtusaliev 
+ RequestUri: /Shop/Orders/Create 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 11:08:37.455  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 11:08:37.471  
+ Username: IgorMurtusaliev 
+ RequestUri: /Shop/Orders 
+ StatusCode: (null) 
+ Headers: {Cache-Control, Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 11:08:37.471  
+ Username: IgorMurtusaliev 
+ RequestUri: /Shop/Orders 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 11:08:37.486  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 11:08:38.805  
+ Username: IgorMurtusaliev 
+ RequestUri: /Account/Logout 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 11:08:38.805  
+ Username: IgorMurtusaliev 
+ RequestUri: /Account/Logout 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 11:08:38.805  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 11:08:38.821  
+ Username:  
+ RequestUri: / 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 11:08:38.821  
+ Username:  
+ RequestUri: / 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 11:08:38.821  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 11:08:40.493  
+ Username:  
+ RequestUri: /Account/Login 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 11:08:40.493  
+ Username:  
+ RequestUri: /Account/Login 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 11:08:40.493  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 11:08:41.326  
+ Username:  
+ RequestUri: /Account/FacebookLogin 
+ StatusCode: (null) 
+ Headers: {Cache-Control, Connection, Content-Length, Content-Type, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 11:08:41.326  
+ Username:  
+ RequestUri: /Account/FacebookLogin 
+ StatusCode: 401 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 11:08:41.342  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 11:08:42.082  
+ Username:  
+ RequestUri: /Account/FacebookLoginCallback 
+ StatusCode: (null) 
+ Headers: {Cache-Control, Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 11:08:42.082  
+ Username:  
+ RequestUri: /Account/FacebookLoginCallback 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 11:08:42.166  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 11:08:42.182  
+ Username: IgorMurtusaliev 
+ RequestUri: / 
+ StatusCode: (null) 
+ Headers: {Cache-Control, Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 11:08:42.182  
+ Username: IgorMurtusaliev 
+ RequestUri: / 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 11:08:42.182  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 11:08:42.783  
+ Username: IgorMurtusaliev 
+ RequestUri: /Shop/Orders 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 11:08:42.783  
+ Username: IgorMurtusaliev 
+ RequestUri: /Shop/Orders 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 11:08:42.799  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 11:08:44.070  
+ Username: IgorMurtusaliev 
+ RequestUri: /Account/Logout 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 11:08:44.070  
+ Username: IgorMurtusaliev 
+ RequestUri: /Account/Logout 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 11:08:44.070  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 11:08:44.086  
+ Username:  
+ RequestUri: / 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 11:08:44.086  
+ Username:  
+ RequestUri: / 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 11:08:44.086  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 11:08:45.591  
+ Username:  
+ RequestUri: /Account/Login 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 11:08:45.591  
+ Username:  
+ RequestUri: /Account/Login 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 11:08:45.591  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 11:08:46.356  
+ Username:  
+ RequestUri: /Account/GoogleLogin 
+ StatusCode: (null) 
+ Headers: {Cache-Control, Connection, Content-Length, Content-Type, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 11:08:46.356  
+ Username:  
+ RequestUri: /Account/GoogleLogin 
+ StatusCode: 401 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 11:08:46.356  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 11:08:47.396  
+ Username:  
+ RequestUri: /Account/GoogleLoginCallback 
+ StatusCode: (null) 
+ Headers: {Cache-Control, Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 11:08:47.396  
+ Username:  
+ RequestUri: /Account/GoogleLoginCallback 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 11:08:47.412  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 11:08:47.427  
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: (null) 
+ Headers: {Cache-Control, Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 11:08:47.427  
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 11:08:47.427  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 11:08:47.982  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Orders 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 11:08:47.982  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Orders 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 11:08:47.997  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:00:12.744  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/Details 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:00:12.744  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/Details 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:00:12.788  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:00:16.076  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:00:16.076  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:00:16.105  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:00:19.928  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/Details/3 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:00:19.928  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/Details/3 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:00:19.944  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:00:21.359  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/AddToCart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:00:21.359  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/AddToCart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:00:21.368  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:00:21.393  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:00:21.393  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:00:21.398  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:01:30.079  
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:01:30.079  
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:01:30.131  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:01:33.676  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:01:33.676  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:01:34.009  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:01:35.840  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/Details/4 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:01:35.840  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/Details/4 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:01:35.853  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:01:37.469  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/AddToCart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:03:17.908  
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:03:17.908  
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:03:17.955  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:03:21.972  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:03:21.972  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:03:22.282  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:03:23.558  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/Details/3 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:03:23.558  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/Details/3 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:03:23.571  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:03:24.594  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/AddToCart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:06:35.595  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/Index 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:06:35.595  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/Index 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:06:35.940  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:06:38.612  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/AddToCart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:07:54.215  
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:07:54.215  
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:07:54.260  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:11:29.484  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:11:29.484  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:11:29.785  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:11:31.742  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/AddToCart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:17:48.169  
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:17:48.169  
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:17:48.215  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:17:51.203  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:17:51.203  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:17:51.516  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:17:53.195  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/Details/3 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:17:53.195  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/Details/3 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:17:53.207  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:17:55.732  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:17:55.732  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:17:55.737  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:17:57.015  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/AddToCart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:20:14.801  
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:20:14.801  
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:20:14.846  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:20:38.816  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/Index 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:20:38.816  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/Index 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:20:39.210  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:22:33.735  
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:22:33.735  
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:22:33.784  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:22:36.560  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:22:36.560  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:22:36.861  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:22:38.208  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:22:38.208  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:22:38.220  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:22:38.235  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:22:38.235  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:22:38.237  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:22:41.597  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:22:41.597  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:22:41.601  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:22:42.703  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/4 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:22:42.703  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/4 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:22:42.711  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:22:42.725  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:22:42.725  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:22:42.728  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:22:55.908  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:22:55.908  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:22:55.913  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:22:57.077  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/5 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:22:57.077  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/5 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:22:57.083  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:22:57.094  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:22:57.094  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:22:57.098  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:23:04.749  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:23:04.749  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:23:04.754  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:23:05.525  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/4 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:23:05.525  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/4 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:23:05.530  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:23:05.544  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:23:05.544  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:23:05.547  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:25:13.874  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Orders 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:25:13.874  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Orders 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:25:13.932  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:25:14.948  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:25:14.948  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:25:14.952  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:25:16.140  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Orders 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:25:16.140  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Orders 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:25:16.144  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:25:21.023  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:25:21.023  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:25:21.027  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:26:39.428  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/Index 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:26:39.428  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/Index 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:26:39.480  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:26:44.083  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:26:44.083  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:26:44.388  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:26:45.378  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:26:45.378  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:26:45.392  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:26:45.410  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:26:45.410  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:26:45.413  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:27:20.391  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/Index 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:27:20.391  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/Index 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:27:20.443  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:27:20.391  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/Index 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:27:20.443  
+  StackTrace:    â System.Web.Compilation.AssemblyBuilder.Compile()
+   â System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   â System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   â System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   â System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   â System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   â System.Web.Compilation.BuildManager.GetCompiledType(VirtualPath virtualPath)
+   â System.Web.Compilation.BuildManager.GetCompiledType(String virtualPath)
+   â System.Web.Mvc.BuildManagerWrapper.System.Web.Mvc.IBuildManager.GetCompiledType(String virtualPath)
+   â System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   â System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   â System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   â System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   â System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   â System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   â System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__4()
+   â System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__1(IAsyncResult asyncResult) 
+  OnExceptionessage: C:\Users\User\Desktop\MyStore\MyStore\Views\Cart\Index.cshtml(23): error CS0103: The name 'ine' does not exist in the current context 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:28:47.760  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/Index 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:28:47.760  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/Index 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:28:47.815  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:28:50.191  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:28:50.191  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:28:50.502  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:28:51.389  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:28:51.389  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:28:51.404  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:28:51.422  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:28:51.422  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:28:51.426  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:28:52.854  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:28:52.854  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:28:52.864  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:28:53.635  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/4 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:28:53.635  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/4 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:28:53.640  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:28:53.651  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:28:53.651  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:28:53.654  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:28:54.399  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:28:54.399  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:28:54.404  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:28:55.532  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:28:55.532  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:28:55.537  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:28:55.552  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:28:55.552  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:28:55.556  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:28:56.659  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:28:56.659  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:28:56.666  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:28:57.723  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:28:57.723  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:28:57.727  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:28:57.738  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:28:57.738  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:28:57.741  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:28:59.156  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:28:59.156  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:28:59.160  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:28:59.947  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/5 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:28:59.947  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/5 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:28:59.953  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:28:59.971  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:28:59.971  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:28:59.975  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:41:42.602  
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:41:42.602  
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:41:42.647  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:41:56.022  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:41:56.022  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:41:56.038  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:41:57.647  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:41:57.647  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:41:57.686  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:41:57.703  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:41:57.703  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:41:57.706  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:43:14.872  
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:43:14.872  
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:43:14.877  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:43:16.074  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:43:16.074  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:43:16.079  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:43:18.121  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:43:18.121  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:43:18.127  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:43:18.140  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:43:18.140  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:43:18.143  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:43:39.060  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/Index 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:43:39.060  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/Index 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:43:39.109  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:43:41.903  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:43:41.903  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:43:42.198  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:43:43.451  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:43:43.451  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:43:43.463  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:43:43.479  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:43:43.479  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:43:43.482  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:43:44.697  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/RemoveFromCart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:43:44.697  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/RemoveFromCart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:43:44.702  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:44:01.184  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:44:01.184  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:44:01.188  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:47:15.104  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/RemoveFromCart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:47:15.104  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/RemoveFromCart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:47:15.108  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:54:40.949  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/Index 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:54:40.949  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/Index 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:54:40.998  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:54:45.732  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:54:45.732  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:54:46.035  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:54:48.529  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/4 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:54:48.529  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/4 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:54:48.543  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:54:48.560  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:54:48.560  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:54:48.564  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:54:50.746  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:54:50.746  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:54:50.752  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:54:51.483  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/4 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:54:51.483  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/4 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:54:51.489  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:54:51.503  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:54:51.503  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:54:51.507  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:54:52.969  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:54:52.969  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:54:52.973  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:54:53.937  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/4 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:54:53.937  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/4 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:54:53.945  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:54:53.964  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:54:53.964  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:54:53.969  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:54:55.904  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:54:55.904  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:54:55.908  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:54:56.837  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:54:56.837  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:54:56.843  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:54:56.857  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:54:56.857  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:54:56.861  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:54:58.325  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:54:58.325  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:54:58.330  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:54:59.242  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/5 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:54:59.242  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/5 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:54:59.246  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:54:59.258  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:54:59.258  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:54:59.261  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:55:00.275  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:55:00.275  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:55:00.279  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:55:01.072  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/5 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:55:01.072  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/5 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:55:01.078  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:55:01.092  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:55:01.092  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:55:01.095  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:55:01.955  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:55:01.955  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:55:01.959  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:57:37.653  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/Index 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:57:37.653  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/Index 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:57:37.707  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:57:41.934  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:57:41.934  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:57:42.254  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:57:43.082  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:57:43.082  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:57:43.093  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:57:43.109  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:57:43.109  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:57:43.112  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:57:44.108  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/RemoveFromCart?Length=4 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {Length} 
+  HttpMethod: {Length} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:57:44.108  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/RemoveFromCart?Length=4 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {Length} 
+  HttpMethod: {Length} 
+ ResponseTime: 04.15.2019 12:57:44.115  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:58:47.284  
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:58:47.284  
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:58:47.334  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:58:49.620  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:58:49.620  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:58:49.920  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:58:50.832  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:58:50.832  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:58:50.846  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:58:50.865  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:58:50.865  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:58:50.868  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:58:52.787  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/RemoveFromCart/3 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:58:52.787  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/RemoveFromCart/3 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:59:07.495  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:09.041  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:09.041  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:59:09.045  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:20.883  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:20.882  
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:20.882  
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:59:20.938  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:20.883  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:59:21.293  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:24.267  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:24.267  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:59:24.272  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:25.164  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:25.164  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:59:25.178  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:25.196  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:25.196  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:59:25.200  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:26.277  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/RemoveFromCart/3 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:26.277  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/RemoveFromCart/3 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:59:26.284  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:26.297  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:26.297  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:59:26.302  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:27.543  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:27.543  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:59:27.546  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:28.410  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/4 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:28.410  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/4 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:59:28.415  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:28.429  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:28.429  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:59:28.434  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:29.234  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:29.234  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:59:29.238  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:29.896  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:29.896  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:59:29.900  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:29.913  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:29.913  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:59:29.918  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:30.721  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:30.721  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:59:30.726  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:31.535  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/4 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:31.535  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/4 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:59:31.539  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:31.550  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:31.550  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:59:31.554  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:33.778  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/RemoveFromCart/3 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:33.778  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/RemoveFromCart/3 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:59:33.783  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:33.799  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:33.799  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:59:33.804  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:34.689  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/RemoveFromCart/4 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:34.689  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/RemoveFromCart/4 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:59:34.693  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:34.707  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 12:59:34.707  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 12:59:34.710  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:00:36.452  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/Index 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:00:36.452  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/Index 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:00:36.807  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:00:38.988  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:00:38.988  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:00:39.002  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:00:39.019  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:00:39.019  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:00:39.023  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:00:45.025  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/RemoveFromCart/3 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:00:45.025  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/RemoveFromCart/3 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:00:45.032  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:00:45.047  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:00:45.047  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:00:45.051  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:01:24.200  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/Index 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:01:24.200  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/Index 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:01:24.254  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:03:28.379  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/Index 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:03:28.379  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/Index 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:03:28.428  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:03:32.741  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:03:32.741  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:03:33.061  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:03:34.636  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:03:34.636  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:03:34.651  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:03:34.667  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:03:34.667  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:03:34.670  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:03:36.231  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:03:36.231  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:03:36.234  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:03:37.123  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/4 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:03:37.123  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/4 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:03:37.128  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:03:37.141  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:03:37.141  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:03:37.144  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:03:38.335  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:03:38.335  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:03:38.340  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:03:39.145  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:03:39.145  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:03:39.151  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:03:39.164  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:03:39.164  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:03:39.166  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:04:39.621  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/Index 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:04:39.621  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/Index 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:04:39.669  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:04:43.155  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:04:43.155  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:04:43.461  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:04:44.506  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:04:44.506  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:04:44.519  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:04:44.535  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:04:44.535  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:04:44.539  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:04:46.091  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:04:46.091  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:04:46.096  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:04:46.944  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/5 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:04:46.944  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/5 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:04:46.949  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:04:46.962  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:04:46.962  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:04:46.966  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:04:48.074  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:04:48.074  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:04:48.077  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:04:50.783  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/5 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:04:50.783  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/5 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:04:50.789  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:04:50.806  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:04:50.806  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:04:50.809  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:05:41.868  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Admin/Products/Index 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:05:41.868  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Admin/Products/Index 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:05:42.215  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:10:09.667  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/Index 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:10:09.667  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/Index 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:10:09.723  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:10:15.462  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:10:15.462  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:10:15.759  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:10:17.306  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:10:17.306  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:10:17.318  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:10:17.334  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:10:17.334  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:10:17.338  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:10:18.508  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:10:18.508  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:10:18.513  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:25:51.551  
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:25:51.551  
+ Username: IgorMurtuzaliev 
+ RequestUri: / 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:25:51.598  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:25:53.305  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:25:53.305  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:25:53.319  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:25:54.457  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:25:54.457  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:25:54.471  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:25:54.486  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:25:54.486  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:25:54.489  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:25:55.557  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:25:55.557  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:25:55.561  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:25:56.612  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:25:56.612  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/3 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:25:56.617  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:25:56.628  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:25:56.628  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:25:56.631  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:25:57.620  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:25:57.620  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:25:57.624  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:25:58.455  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/4 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:25:58.455  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/4 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:25:58.459  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:25:58.471  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:25:58.471  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:25:58.473  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:25:59.563  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:25:59.563  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:25:59.568  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:26:00.389  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/5 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:26:00.389  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Shop/Products/AddToCart/5 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:26:00.393  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:26:00.406  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:26:00.406  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:26:00.408  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:26:01.161  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/RemoveFromCart/4 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:26:01.161  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/RemoveFromCart/4 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:26:01.167  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:26:01.177  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:26:01.177  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:26:01.180  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:26:01.998  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/RemoveFromCart/3 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:26:01.998  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/RemoveFromCart/3 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:26:02.002  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:26:02.015  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:26:02.015  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:26:02.019  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:26:02.938  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/RemoveFromCart/5 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:26:02.938  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart/RemoveFromCart/5 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:26:02.943  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:26:02.959  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: (null) 
+ Headers: {Connection, Accept, Accept-Encoding, Accept-Language, Cookie, Host, Referer, User-Agent, upgrade-insecure-requests} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: (null) 
+  StackTrace: (null) 
+  OnActionExecutingessage: (null) 
+---------------------------------------- 
+RequestTime: 04.15.2019 01:26:02.959  
+ Username: IgorMurtuzaliev 
+ RequestUri: /Cart 
+ StatusCode: 200 
+ Headers: {Server, X-AspNetMvc-Version} 
+ Body: Body 
+ QueryString: {} 
+  HttpMethod: {} 
+ ResponseTime: 04.15.2019 01:26:02.962  
+  StackTrace: (null) 
+  OnActionExecutedessage: (null) 
+---------------------------------------- 

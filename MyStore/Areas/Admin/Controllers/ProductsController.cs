@@ -75,6 +75,8 @@ namespace MyStore.Areas.Admin.Controllers
              }
            
          }
+
+        
         [Authorize(Roles = "Admin, Manager")]
         public ActionResult Edit(int? id)
         {

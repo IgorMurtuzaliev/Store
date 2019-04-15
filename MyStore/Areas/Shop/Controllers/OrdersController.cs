@@ -23,7 +23,8 @@ namespace MyStore.Areas.Shop.Controllers
         [MyAction]
         public ActionResult Index()
         {
-            return View(db.Orders.Include(c => c.User).ToList());
+            var userId = User.Identity.GetUserId();
+            return View(db.Orders.Include(c => c.User).Where(c=>c.UserId == userId).ToList());
         }
         [MyAction]
         public ActionResult Details(int? id)
@@ -42,7 +43,6 @@ namespace MyStore.Areas.Shop.Controllers
         [MyAction]
         public ActionResult Create()
         {
-            ViewBag.UserId = new SelectList(db.Users, "Id", "Name");
             ViewBag.ProductId = new SelectList(db.Products, "ProductId", "Name");
             return View();
         }
@@ -57,7 +57,7 @@ namespace MyStore.Areas.Shop.Controllers
             {
                 var order = new Order
                 { 
-                    UserId = orderVM.UserId,
+                    UserId = HttpContext.User.Identity.GetUserId(),
                     TimeOfOrder = DateTime.Now
                 };
 
@@ -93,12 +93,12 @@ namespace MyStore.Areas.Shop.Controllers
             {
                 return HttpNotFound();
             }
-            ViewBag.UserId = new SelectList(db.Users, "Id", "Name", order.UserId);
+           // ViewBag.UserId = new SelectList(db.Users, "Id", "Name", order.UserId);
             return View(order);
         }
 
         [HttpPost]
-        [ValidateAntiForgeryToken]
+       // [ValidateAntiForgeryToken]
         public ActionResult Edit([Bind(Include = "OrderId,TimeOfOrder,UserId")] Order order)
         {
             if (ModelState.IsValid)
@@ -107,7 +107,7 @@ namespace MyStore.Areas.Shop.Controllers
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
-            ViewBag.UserId = new SelectList(db.Users, "Id", "Name", order.UserId);
+          //  ViewBag.UserId = new SelectList(db.Users, "Id", "Name", order.UserId);
             return View(order);
         }
 
@@ -126,7 +126,7 @@ namespace MyStore.Areas.Shop.Controllers
         }
 
         [HttpPost, ActionName("Delete")]
-        [ValidateAntiForgeryToken]
+        //[ValidateAntiForgeryToken]
         public ActionResult DeleteConfirmed(int id)
         {
             Order order = db.Orders.Find(id);

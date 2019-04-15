@@ -306,10 +306,7 @@
     <Content Include="Areas\Admin\Views\Products\Details.cshtml" />
     <Content Include="Areas\Admin\Views\Products\Edit.cshtml" />
     <Content Include="Areas\Admin\Views\Products\Index.cshtml" />
-    <Content Include="Areas\Shop\Views\Products\Create.cshtml" />
-    <Content Include="Areas\Shop\Views\Products\Delete.cshtml" />
     <Content Include="Areas\Shop\Views\Products\Details.cshtml" />
-    <Content Include="Areas\Shop\Views\Products\Edit.cshtml" />
     <Content Include="Areas\Shop\Views\Products\Index.cshtml" />
     <Content Include="Areas\Shop\Views\Orders\Create.cshtml" />
     <Content Include="Areas\Shop\Views\Orders\Delete.cshtml" />

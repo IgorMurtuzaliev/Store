@@ -14,7 +14,7 @@ namespace MyStore.Filters
         private ApplicationDbContext db = new ApplicationDbContext();
         public void OnActionExecuted(ActionExecutedContext filterContext)
         {
-            log4net.LogicalThreadContext.Properties["response_time"] = DateTime.Now;
+            log4net.LogicalThreadContext.Properties["response_time"] = DateTime.Now.ToString("MM/dd/yyyy hh:mm:ss.fff tt");
             log4net.LogicalThreadContext.Properties["username"] = filterContext.HttpContext.User.Identity.Name;
             log4net.LogicalThreadContext.Properties["request_uri"] = filterContext.HttpContext.Request.RawUrl;
             log4net.LogicalThreadContext.Properties["headers"] = filterContext.HttpContext.Response.Headers;
@@ -25,7 +25,7 @@ namespace MyStore.Filters
 
         public void OnActionExecuting(ActionExecutingContext filterContext)
         {
-            log4net.LogicalThreadContext.Properties["request_time"] = DateTime.Now;
+            log4net.LogicalThreadContext.Properties["request_time"] = DateTime.Now.ToString("MM/dd/yyyy hh:mm:ss.fff tt");
             log4net.LogicalThreadContext.Properties["username"] = filterContext.HttpContext.User.Identity.Name;
             log4net.LogicalThreadContext.Properties["request_uri"] = filterContext.HttpContext.Request.RawUrl;
             log4net.LogicalThreadContext.Properties["method"] = filterContext.HttpContext.Request.HttpMethod;

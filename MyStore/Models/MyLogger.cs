@@ -9,7 +9,7 @@ namespace MyStore.Models
     {
         public int Id { get; set; }
         public string RequestTime { get; set; }
-        public string ResponseTime { get; set; }
+        public string ResponseTime { get; set; } 
         public string Username { get; set; }
         public string RequestUri { get; set; }
         public string StatusCode { get; set; }

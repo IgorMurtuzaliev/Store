@@ -20,9 +20,24 @@
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
-                    <li>@Html.ActionLink("Users", "Index",  new { area = "", controller = "Users"})</li>
-                    <li>@Html.ActionLink("Products", "Index", new { area = "Admin", controller = "Products"})</li>
-                    <li>@Html.ActionLink("Orders", "Index",  new { area = "Shop", controller = "Orders"})</li>
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        if (User.IsInRole("Admin"))
+                        {
+                            <li>@Html.ActionLink("Users", "Index", new { area = "", controller = "Users" })</li>
+                            <li>@Html.ActionLink("Products", "Index", new { area = "Admin", controller = "Products" })</li>
+                            <li>@Html.ActionLink("Orders", "Index", new { area = "Shop", controller = "Orders" })</li>
+                        }
+                        else
+                        {
+                            <li>@Html.ActionLink("Products", "Index", new { area = "Shop", controller = "Products" })</li>
+                            <li>@Html.ActionLink("Orders", "Index", new { area = "Shop", controller = "Orders" })</li>
+                        }
+                    }
+                    else
+                    {
+                        <li>@Html.ActionLink("Products", "Index", new { area = "Shop", controller = "Products" })</li>
+                    }
                 </ul>
                 @if (User.Identity.IsAuthenticated)
                 {

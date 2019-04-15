@@ -1,6 +1,6 @@
 ﻿@model MyStore.Models.CreateRoleModel
 
-<h2>Добавление роли</h2>
+<h2>Add new role</h2>
 
 @using (Html.BeginForm())
 {
@@ -9,6 +9,6 @@
     <div>
         @Html.ValidationSummary(true, "")
         <p>Название:  @Html.EditorFor(model => model.Name)</p>
-        <p><input type="submit" value="Добавить" /></p>
+        <p><input type="submit" value="Add" /></p>
     </div>
 }

@@ -12,26 +12,26 @@
     @Html.AntiForgeryToken()
 
 <div>
-    <h4>Регистрация пользователя</h4>
+    <h4>Register new user</h4>
     <hr />
     @Html.ValidationSummary(false)
 
     <div>
-        Имя
+        Name
         <div>
             @Html.EditorFor(model => model.Name)
         </div>
     </div>
 
     <div>
-        Фамилия
+        Surname
         <div>
             @Html.EditorFor(model => model.LastName)
         </div>
     </div>
 
     <div>
-        Электронный адрес
+        Email
         <div>
             @Html.EditorFor(model => model.Email)
         </div>
@@ -39,14 +39,14 @@
 
 
     <div>
-        Пароль
+        Password
         <div>
             @Html.EditorFor(model => model.Password)
         </div>
     </div>
 
     <div>
-        Подтвердить пароль
+        Confirm password
         <div>
             @Html.EditorFor(model => model.PasswordConfirm)
         </div>
@@ -54,7 +54,7 @@
 
     <div>
         <div>
-            <input type="submit" value="Зарегистрировать" />
+            <input type="submit" value="Register" />
         </div>
     </div>
 </div>

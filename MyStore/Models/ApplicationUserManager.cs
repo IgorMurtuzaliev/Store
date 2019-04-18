@@ -20,9 +20,5 @@ namespace MyStore.Models
             return manager;
         }
 
-        internal static Task<ExternalLoginInfo> GetExternalLoginInfoAsync()
-        {
-            throw new NotImplementedException();
-        }
     }
 }

@@ -101,7 +101,7 @@ namespace MyStore.Controllers
                     SmtpClient smtp = new System.Net.Mail.SmtpClient("smtp.yandex.ru", 25);
                     // логин и пароль
                     smtp.EnableSsl = true;
-                    smtp.Credentials = new System.Net.NetworkCredential("ingwarrior.99@yandex.ru", "038161401IngWar9991");
+                    smtp.Credentials = new System.Net.NetworkCredential("ingwarrior.99@yandex.ru", "///");
                     smtp.Send(m);
                     return RedirectToAction("Confirm", "Account", new { Email = user.Email });
                 }
